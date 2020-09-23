@@ -1,0 +1,35 @@
+<extend src="layout.jael">
+    <block name="content">
+        <div class="row justify-content-sm-center">
+            <div class="col-sm-8 py-3">
+                <div class="alert alert-success" if=created>
+                    Successfully created, <a href="/posts/" + article.slug>View Article</a>
+                </div>
+            </div>
+            <div class="col-sm-8 py-3">
+                <form method="POST" action="/new" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="ArticleTitle">Title</label>
+                        <input type="text" name="title" class="form-control" id="ArticleTitle" placeholder="Enter the title" 
+                        value=article?.title>
+                    </div>
+                    <div class="form-group">
+                        <label for="ArticleSlug">Slug</label>
+                        <input type="text" name="slug" class="form-control" id="ArticleSlug" placeholder="slug-to-title"
+                        value=article?.slug>
+                    </div>
+                    <div class="form-group">
+                        <label for="ArticleDate">Publish Date</label>
+                        <input type="date" name="publish_date" class="form-control" id="ArticleDate" placeholder="Enter the date"
+                        value=article?.publishDate>
+                    </div>
+                    <div class="form-group">
+                        <label for="ArticleContent">Body</label>
+                        <textarea name="content" class="form-control" id="ArticleContent" row="12">{{ article?.content }}</textarea>
+                    </div>
+                    <input type="submit" class="btn btn-success" value="Submit">
+                </form>
+            </div>
+        </div>
+    </block>
+</extend>
