@@ -1,0 +1,24 @@
+<extend src="layout.jael">
+    <block name='content'>
+        <div class="container my-5">
+            <div class="row justify-content-md-center">
+                <div class="col-md-8">
+                    <h1>{{ article.title }}</h1>
+                    <p class="lead">Posted on {{ article.fullDate }}</p>
+                    {{- article.contentAsHtml }}
+                </div>
+                <div class="w-100"></div>
+            <div class="col-md-8">
+                <p class="d-sm-inline-block mr-1">
+                    <a href="/posts/" + article.slug + "/edit" class="btn btn-warning btn-sm">Edit</a>
+                </p>
+                <form action="/posts/" + article.slug + "/edit" method="POST" enctype="multipart/form-data" class="d-sm-inline-block">
+                    <input type="hidden" name="id" value=article?.id>
+                    <button type="submit" class="btn btn-danger btn-sm" name="_method" value="delete"
+                    onclick="return confirm('Are you sure?')">Delete</button>
+                </form>
+            </div>
+            </div>
+        </div>
+    </block>
+</extend>
