@@ -5,9 +5,27 @@
                 <div class="alert alert-success" if=created>
                     Successfully created, <a href="/posts/" + article.slug>View Article</a>
                 </div>
+
+                <div class="alert alert-success" if=edited>
+                    Successfully updated, <a href="/posts/" + article.slug>View update Article</a>
+                </div>
+
+                <div class="alert alert-danger" if=errors != null>
+                    <h3 class="mb-2">Error when adding item</h3>
+                    <ul>
+                        <li for-each=errors as="error">
+                            {{ error }}
+                        </li>
+                    </ul>
+                </div>
+
+                <h1 if=editing>
+                    Current Editing "{{ article.title }}"
+                </h1>
             </div>
             <div class="col-sm-8 py-3">
-                <form method="POST" action="/new" enctype="multipart/form-data">
+                <form method="POST" enctype="multipart/form-data">
+                    <input type="hidden" name="id" value=article?.id>
                     <div class="form-group">
                         <label for="ArticleTitle">Title</label>
                         <input type="text" name="title" class="form-control" id="ArticleTitle" placeholder="Enter the title" 
@@ -21,13 +39,14 @@
                     <div class="form-group">
                         <label for="ArticleDate">Publish Date</label>
                         <input type="date" name="publish_date" class="form-control" id="ArticleDate" placeholder="Enter the date"
-                        value=article?.publishDate>
+                        value=article?.publishDateAsInputValue>
                     </div>
                     <div class="form-group">
                         <label for="ArticleContent">Body</label>
                         <textarea name="content" class="form-control" id="ArticleContent" row="12">{{ article?.content }}</textarea>
                     </div>
-                    <input type="submit" class="btn btn-success" value="Submit">
+                    <input type="submit" class="btn btn-success mr-1" value="Submit">
+                    <button if=editing type="submit" class="btn btn-danger" name="_method" value="delete" onclick="return confirm('Are you sure?')">Delete</button>
                 </form>
             </div>
         </div>
