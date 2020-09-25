@@ -1,20 +1,74 @@
 import 'package:angel_framework/angel_framework.dart';
+import 'package:angel_validate/angel_validate.dart';
 import 'package:mongo_dart/mongo_dart.dart';
 import 'model/article.dart';
 import 'dart:io';
 import './validate.dart';
+import './paginator.dart';
 
 AngelConfigurer configServer() => (Angel app) {
       app.get('/', (req, res) async {
         var articleService = app.findService('articles');
-        var articleList = await articleService.index();
+        var collection = req.container.findByName('datastore');
+        var count = await collection.count();
+        final page = req.queryParameters['page'];
+        final pageSkip = page is String ? int.tryParse(page) : 1;
+        final itemsPerPage = 5;
+        final totalPageIndex = (count / itemsPerPage).ceil(); //101/10 = 11
+
+        if (pageSkip == null) await res.redirect('/');
+        var articleList = await articleService.index({
+          'query': where
+              .sortBy('publish_date', descending: true)
+              .skip((pageSkip - 1) * itemsPerPage //2 - 1 = 1 * 3
+                  )
+              .limit(itemsPerPage),
+        });
+
         var articles = articleList.map((article) {
           return ArticleSerializer.fromMap(article);
         }).toList();
-        await res.render('articles', {'articles': articles});
+        await res.render('articles', {
+          'articles': articles,
+          'title': 'home',
+          'paginator': Paginatior(
+              currentPage: pageSkip,
+              previousPage: pageSkip == 1 ? 1 : pageSkip - 1,
+              nextPage: pageSkip + 1,
+              itemsPerPage: itemsPerPage,
+              startIndex: 1,
+              endIndex: totalPageIndex)
+        });
       });
 
-      app.get('/new', (req, res) => res.render('article_form'));
+      app.get('/search', (req, res) async {
+        var query = req.queryParameters['q'];
+        var articleService = app.findService('articles');
+
+        var validationResult = searchValidator.check(req.queryParameters);
+        var templateData = {};
+
+        if (validationResult.errors.isNotEmpty) {
+          templateData
+              .addAll({'errors': validationResult.errors, 'articles': []});
+        } else {
+          var filterArticleList = await articleService.index({
+            //exist will be > -1
+            'query': where.jsQuery('this.title.indexOf("$query") > -1')
+          });
+
+          var filterArticles = filterArticleList.map((article) {
+            return ArticleSerializer.fromMap(article);
+          }).toList();
+
+          templateData['articles'] = filterArticles;
+        }
+
+        await res.render('search', {'query': query, ...templateData});
+      });
+
+      app.get(
+          '/new', (req, res) => res.render('article_form', {'title': 'new'}));
 
       app.post('/new', (req, res) async {
         await req.parseBody();

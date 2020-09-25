@@ -3,9 +3,7 @@ import 'package:angel_mongo/angel_mongo.dart';
 import 'package:mongo_dart/mongo_dart.dart';
 
 Future configureServer(Angel app) async {
-  final db = Db('mongodb://localhost:27017/angel');
+  final collection = app.container.findByName<DbCollection>('datastore');
 
-  await db.open();
-
-  app.use('articles', MongoService(db.collection('articles')));
+  app.use('articles', MongoService(collection));
 }

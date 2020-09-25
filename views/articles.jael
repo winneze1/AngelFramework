@@ -21,6 +21,42 @@
                     <p><span class="badge badge-info">{{ article.fullDate }}</span></p>
                     <p><a href="/posts/" + article.slug>More</a></p>
                 </div>
+                <div class="w-100 mb-3"></div>
+                <nav class="">
+                    <ul class="pagination">
+                        <switch value=paginator?.currentPage>
+                            <case value=paginator?.startIndex>
+                                <li class="page-item disabled">
+                                    <a href="" class="page-link">Previous</a>
+                                </li>
+                            </case>
+                            <case value=paginator?.startIndex+1>
+                                <li class="page-item">
+                                    <a href="/" class="page-link">Previous</a>
+                                </li>
+                            </case>
+                            <default>
+                                <li class="page-item">
+                                    <a href="/?page=" + paginator?.previousPage class="page-link">Previous</a>
+                                </li>
+                            </default>
+                        </switch>
+
+                        <switch value=paginator?.currentPage>
+                            <case value=paginator?.endIndex>
+                                <li class="page-item disabled">
+                                    <a href="" class="page-link">Next</a>
+                                </li>
+                            </case>
+                            <default>
+                                <li class="page-item">
+                                    <a href="/?page=" + paginator?.nextPage class="page-link">Next</a>
+                                </li>
+                            </default>
+                        </switch>
+                        
+                    </ul>
+                </nav>
             </div>
         </div>
     </block>
