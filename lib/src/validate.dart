@@ -11,3 +11,6 @@ var articleValidator = Validator({
   'slug': 'Please enter a valid slug',
   'publish_date': 'Please enter a valid publish date'
 });
+
+var searchValidator = Validator({'q*': isNonEmptyString},
+    customErrorMessages: {'q': 'Please enter input to search'});
