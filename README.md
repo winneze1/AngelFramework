@@ -12,5 +12,10 @@
     * **🏢 Verify data before upload:** Data must not be null using Angel Validator
 
 ##
+
+* **📝 Add Search Button:** input value to search
+* **💾 Add Pagination:** Paginating items.
+
+##
 Created from templates made available by Stagehand under a BSD-style
 [license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
