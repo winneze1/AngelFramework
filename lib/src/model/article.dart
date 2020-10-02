@@ -10,6 +10,8 @@ class _Article extends Model {
   String title;
   String slug;
   String content;
+  String email;
+  String password;
 
   @SerializableField(
       serializer: #_dateToString,

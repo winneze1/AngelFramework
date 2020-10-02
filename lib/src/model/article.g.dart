@@ -15,6 +15,8 @@ class Article extends _Article {
       this.title,
       this.slug,
       this.content,
+      this.email,
+      this.password,
       this.publishDate});
 
   /// A unique identifier corresponding to this item.
@@ -39,6 +41,12 @@ class Article extends _Article {
   String content;
 
   @override
+  String email;
+
+  @override
+  String password;
+
+  @override
   DateTime publishDate;
 
   Article copyWith(
@@ -48,6 +56,8 @@ class Article extends _Article {
       String title,
       String slug,
       String content,
+      String email,
+      String password,
       DateTime publishDate}) {
     return Article(
         id: id ?? this.id,
@@ -56,6 +66,8 @@ class Article extends _Article {
         title: title ?? this.title,
         slug: slug ?? this.slug,
         content: content ?? this.content,
+        email: email ?? this.email,
+        password: password ?? this.password,
         publishDate: publishDate ?? this.publishDate);
   }
 
@@ -67,18 +79,29 @@ class Article extends _Article {
         other.title == title &&
         other.slug == slug &&
         other.content == content &&
+        other.email == email &&
+        other.password == password &&
         other.publishDate == publishDate;
   }
 
   @override
   int get hashCode {
-    return hashObjects(
-        [id, createdAt, updatedAt, title, slug, content, publishDate]);
+    return hashObjects([
+      id,
+      createdAt,
+      updatedAt,
+      title,
+      slug,
+      content,
+      email,
+      password,
+      publishDate
+    ]);
   }
 
   @override
   String toString() {
-    return "Article(id=$id, createdAt=$createdAt, updatedAt=$updatedAt, title=$title, slug=$slug, content=$content, publishDate=$publishDate)";
+    return "Article(id=$id, createdAt=$createdAt, updatedAt=$updatedAt, title=$title, slug=$slug, content=$content, email=$email, password=$password, publishDate=$publishDate)";
   }
 
   Map<String, dynamic> toJson() {
@@ -129,6 +152,8 @@ class ArticleSerializer extends Codec<Article, Map> {
         title: map['title'] as String,
         slug: map['slug'] as String,
         content: map['content'] as String,
+        email: map['email'] as String,
+        password: map['password'] as String,
         publishDate: _dateFromString(map['publish_date']));
   }
 
@@ -143,6 +168,8 @@ class ArticleSerializer extends Codec<Article, Map> {
       'title': model.title,
       'slug': model.slug,
       'content': model.content,
+      'email': model.email,
+      'password': model.password,
       'publish_date': _dateToString(model.publishDate)
     };
   }
@@ -156,6 +183,8 @@ abstract class ArticleFields {
     title,
     slug,
     content,
+    email,
+    password,
     publishDate
   ];
 
@@ -170,6 +199,10 @@ abstract class ArticleFields {
   static const String slug = 'slug';
 
   static const String content = 'content';
+
+  static const String email = 'email';
+
+  static const String password = 'password';
 
   static const String publishDate = 'publish_date';
 }
