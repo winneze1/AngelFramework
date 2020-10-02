@@ -15,7 +15,7 @@ void main(List<String> arguments) async {
     return app;
   }, [Directory('lib')]);
 
-  var http = await hot.startServer('localhost', 3133);
+  var http = await hot.startServer('127.0.0.1', 8489);
 
   print('http://${http.address.address}:${http.port}');
 }

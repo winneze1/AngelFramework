@@ -179,6 +179,42 @@ AngelConfigurer configServer() => (Angel app) {
         await res.render('article_form', templateData);
       });
 
+      app.post('/login', (req, res) async {
+        await req.parseBody();
+        var articleService = app.findService('articles');
+        var email = req.bodyAsMap['email'];
+        var password = req.bodyAsMap['password'];
+        var code = HttpStatus.ok;
+
+        var query = {};
+        query.addAll({'email': email, 'password': password});
+
+        try {
+          var findUser = await articleService.findOne({'query': query});
+          print(findUser);
+
+          if (findUser == null) {
+            throw ArgumentError('Incorrect email or password');
+          }
+
+          if (findUser != null) {
+            var resBody = {
+              'email': email,
+              'password': password,
+              'status_code': code
+            };
+            await res.json(resBody);
+            print('success');
+          } else {
+            throw ArgumentError('Incorrect email or password');
+          }
+        } catch (e) {
+          res.statusCode = HttpStatus.unauthorized;
+          res.json(AngelHttpException.notFound(message: 'User not found'));
+          print("fail");
+        }
+      });
+
       app.fallback((req, res) => throw AngelHttpException.notFound(
           message: "That route doesn't exist"));
     };
