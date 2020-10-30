@@ -27,6 +27,16 @@
                 <form method="POST" enctype="multipart/form-data">
                     <input type="hidden" name="id" value=article?.id>
                     <div class="form-group">
+                        <label for="ArticleEmail">Email</label>
+                        <input type="text" name="email" class="form-control" id="ArticleEmail" placeholder="Enter the Email" 
+                        value=article?.email>
+                    </div>
+                    <div class="form-group">
+                        <label for="ArticlePassword">Password</label>
+                        <input type="text" name="password" class="form-control" id="ArticlePassword" placeholder="Enter the password" 
+                        value=article?.password>
+                    </div>
+                    <div class="form-group">
                         <label for="ArticleTitle">Title</label>
                         <input type="text" name="title" class="form-control" id="ArticleTitle" placeholder="Enter the title" 
                         value=article?.title>
