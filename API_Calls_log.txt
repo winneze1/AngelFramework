@@ -1,0 +1,3005 @@
+[INFO] api_logger: 200 POST /login (1321 ms) | Time Call: 2020-10-07 16:58:05.499170
+
+[SEVERE] api_logger: That route doesn't exist | Time Call: 2020-10-07 16:58:28.512189
+
+[INFO] api_logger: 404 POST / (7 ms) | Time Call: 2020-10-07 16:58:28.517186
+
+[INFO] api_logger: 200 GET / (100 ms) | Time Call: 2020-10-07 16:59:05.064166
+
+[INFO] api_logger: 200 GET /?page=1 (114 ms) | Time Call: 2020-10-07 16:59:23.373403
+
+[INFO] api_logger: 200 GET /?page=2 (94 ms) | Time Call: 2020-10-07 17:00:38.986132
+
+[INFO] api_logger: 200 POST /login (21 ms) | Time Call: 2020-10-07 17:11:57.431142
+
+[SEVERE] api_logger: That route doesn't exist | Time Call: 2020-10-07 17:22:28.285912
+
+[INFO] api_logger: 404 POST / (18 ms) | Time Call: 2020-10-07 17:22:28.303865
+
+[INFO] api_logger: 200 GET / (116 ms) | Time Call: 2020-10-07 17:22:42.419393
+
+[INFO] api_logger: 401 POST /login (1411 ms) | Time Call: 2020-10-08 15:25:34.261113
+
+[INFO] api_logger: 401 POST /login (22 ms) | Time Call: 2020-10-08 15:27:35.722868
+
+[INFO] api_logger: 401 POST /login (83 ms) | Time Call: 2020-10-08 15:32:46.581935
+
+[INFO] api_logger: 401 POST /login (87 ms) | Time Call: 2020-10-08 15:54:13.561764
+
+[INFO] api_logger: 401 POST /login (53 ms) | Time Call: 2020-10-08 15:55:51.194878
+
+[INFO] api_logger: 401 POST /login (86 ms) | Time Call: 2020-10-08 15:59:00.619996
+
+[INFO] api_logger: 200 POST /login (893 ms) | Time Call: 2020-10-08 16:30:17.716387
+
+[INFO] api_logger: 401 POST /login (197 ms) | Time Call: 2020-10-08 16:33:31.992300
+
+[INFO] api_logger: 401 POST /login (4 ms) | Time Call: 2020-10-08 16:34:53.744232
+
+[INFO] api_logger: 401 POST /login (48 ms) | Time Call: 2020-10-08 16:36:01.654380
+
+[INFO] api_logger: 401 POST /login (19 ms) | Time Call: 2020-10-08 16:39:55.188083
+
+[INFO] api_logger: 401 POST /login (6 ms) | Time Call: 2020-10-08 16:40:45.820056
+
+[INFO] api_logger: 401 POST /login (16 ms) | Time Call: 2020-10-08 16:42:28.792198
+
+[INFO] api_logger: 200 POST /login (25 ms) | Time Call: 2020-10-08 16:44:03.402170
+
+[INFO] api_logger: 200 POST /login (35 ms) | Time Call: 2020-10-08 16:46:09.721944
+
+[INFO] api_logger: 401 POST /login (4 ms) | Time Call: 2020-10-08 16:51:29.859551
+
+[INFO] api_logger: 401 POST /login (3 ms) | Time Call: 2020-10-08 16:51:59.168707
+
+[INFO] api_logger: 401 POST /login (4 ms) | Time Call: 2020-10-08 16:52:15.503775
+
+[INFO] api_logger: 401 POST /login (7 ms) | Time Call: 2020-10-08 16:53:20.165868
+
+[INFO] api_logger: 200 POST /login (12 ms) | Time Call: 2020-10-08 16:54:01.527428
+
+[INFO] api_logger: 401 POST /login (13 ms) | Time Call: 2020-10-08 16:55:10.197706
+
+[INFO] api_logger: 401 POST /login (13 ms) | Time Call: 2020-10-08 16:55:18.771946
+
+[INFO] api_logger: 401 POST /login (3 ms) | Time Call: 2020-10-08 16:55:22.574502
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:40:59.874310
+
+[INFO] api_logger: 500 POST /new (115 ms) | Time Call: 2020-10-09 09:40:59.950109
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:42:02.338393
+
+[INFO] api_logger: 200 GET / (523 ms) | Time Call: 2020-10-09 09:44:04.774287
+
+[INFO] api_logger: 200 GET / (523 ms) | Time Call: 2020-10-09 09:44:04.774287
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:44:34.485186
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:44:34.485186
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:44:45.520533
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:44:45.520533
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:44:45.520533
+
+[INFO] api_logger: 200 GET / (196 ms) | Time Call: 2020-10-09 09:44:51.661057
+
+[INFO] api_logger: 200 GET / (196 ms) | Time Call: 2020-10-09 09:44:51.661057
+
+[INFO] api_logger: 200 GET / (196 ms) | Time Call: 2020-10-09 09:44:51.661057
+
+[INFO] api_logger: 200 GET / (196 ms) | Time Call: 2020-10-09 09:44:51.661057
+
+[INFO] api_logger: 200 GET /new (17 ms) | Time Call: 2020-10-09 09:44:58.417938
+
+[INFO] api_logger: 200 GET /new (17 ms) | Time Call: 2020-10-09 09:44:58.417938
+
+[INFO] api_logger: 200 GET /new (17 ms) | Time Call: 2020-10-09 09:44:58.417938
+
+[INFO] api_logger: 200 GET /new (17 ms) | Time Call: 2020-10-09 09:44:58.417938
+
+[INFO] api_logger: 200 POST /new (326 ms) | Time Call: 2020-10-09 09:45:13.083168
+
+[INFO] api_logger: 200 POST /new (326 ms) | Time Call: 2020-10-09 09:45:13.083168
+
+[INFO] api_logger: 200 POST /new (326 ms) | Time Call: 2020-10-09 09:45:13.083168
+
+[INFO] api_logger: 200 POST /new (326 ms) | Time Call: 2020-10-09 09:45:13.083168
+
+[INFO] api_logger: 200 GET /posts/2e2e2e (71 ms) | Time Call: 2020-10-09 09:45:15.104162
+
+[INFO] api_logger: 200 GET /posts/2e2e2e (71 ms) | Time Call: 2020-10-09 09:45:15.104162
+
+[INFO] api_logger: 200 GET /posts/2e2e2e (71 ms) | Time Call: 2020-10-09 09:45:15.104162
+
+[INFO] api_logger: 200 GET /posts/2e2e2e (71 ms) | Time Call: 2020-10-09 09:45:15.104162
+
+[INFO] api_logger: 200 GET /posts/2e2e2e/edit (15 ms) | Time Call: 2020-10-09 09:45:19.568295
+
+[INFO] api_logger: 200 GET /posts/2e2e2e/edit (15 ms) | Time Call: 2020-10-09 09:45:19.568295
+
+[INFO] api_logger: 200 GET /posts/2e2e2e/edit (15 ms) | Time Call: 2020-10-09 09:45:19.568295
+
+[INFO] api_logger: 200 GET /posts/2e2e2e/edit (15 ms) | Time Call: 2020-10-09 09:45:19.568295
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:47:32.111404
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:47:32.111404
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:47:32.111404
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:47:32.111404
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:47:46.987359
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:47:46.987359
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:47:46.987359
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:47:46.987359
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:47:46.987359
+
+[INFO] api_logger: 500 POST /new (18 ms) | Time Call: 2020-10-09 09:47:46.998840
+
+[INFO] api_logger: 500 POST /new (18 ms) | Time Call: 2020-10-09 09:47:46.998840
+
+[INFO] api_logger: 500 POST /new (18 ms) | Time Call: 2020-10-09 09:47:46.998840
+
+[INFO] api_logger: 500 POST /new (18 ms) | Time Call: 2020-10-09 09:47:46.998840
+
+[INFO] api_logger: 500 POST /new (18 ms) | Time Call: 2020-10-09 09:47:46.998840
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:48:51.633442
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:48:51.633442
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:48:51.633442
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:48:51.633442
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:48:51.633442
+
+[INFO] api_logger: 500 POST /new (5 ms) | Time Call: 2020-10-09 09:48:51.638428
+
+[INFO] api_logger: 500 POST /new (5 ms) | Time Call: 2020-10-09 09:48:51.638428
+
+[INFO] api_logger: 500 POST /new (5 ms) | Time Call: 2020-10-09 09:48:51.638428
+
+[INFO] api_logger: 500 POST /new (5 ms) | Time Call: 2020-10-09 09:48:51.638428
+
+[INFO] api_logger: 500 POST /new (5 ms) | Time Call: 2020-10-09 09:48:51.638428
+
+[INFO] api_logger: lib\src\validate.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:49:58.042290
+
+[INFO] api_logger: lib\src\validate.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:49:58.042290
+
+[INFO] api_logger: lib\src\validate.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:49:58.042290
+
+[INFO] api_logger: lib\src\validate.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:49:58.042290
+
+[INFO] api_logger: lib\src\validate.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:49:58.042290
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:50:11.848596
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:50:11.848596
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:50:11.848596
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:50:11.848596
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:50:11.848596
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 09:50:11.848596
+
+[INFO] api_logger: 500 POST /new (22 ms) | Time Call: 2020-10-09 09:50:11.864555
+
+[INFO] api_logger: 500 POST /new (22 ms) | Time Call: 2020-10-09 09:50:11.864555
+
+[INFO] api_logger: 500 POST /new (22 ms) | Time Call: 2020-10-09 09:50:11.864555
+
+[INFO] api_logger: 500 POST /new (22 ms) | Time Call: 2020-10-09 09:50:11.864555
+
+[INFO] api_logger: 500 POST /new (22 ms) | Time Call: 2020-10-09 09:50:11.864555
+
+[INFO] api_logger: 500 POST /new (22 ms) | Time Call: 2020-10-09 09:50:11.864555
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:54:28.961192
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:54:28.961192
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:54:28.961192
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:54:28.961192
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:54:28.961192
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:54:28.961192
+
+[INFO] api_logger: 200 GET / (379 ms) | Time Call: 2020-10-09 09:54:49.298852
+
+[INFO] api_logger: 200 GET / (379 ms) | Time Call: 2020-10-09 09:54:49.298852
+
+[INFO] api_logger: 200 GET / (379 ms) | Time Call: 2020-10-09 09:54:49.298852
+
+[INFO] api_logger: 200 GET / (379 ms) | Time Call: 2020-10-09 09:54:49.298852
+
+[INFO] api_logger: 200 GET / (379 ms) | Time Call: 2020-10-09 09:54:49.298852
+
+[INFO] api_logger: 200 GET / (379 ms) | Time Call: 2020-10-09 09:54:49.298852
+
+[INFO] api_logger: 200 GET / (379 ms) | Time Call: 2020-10-09 09:54:49.298852
+
+[INFO] api_logger: 200 GET /new (27 ms) | Time Call: 2020-10-09 09:54:52.009782
+
+[INFO] api_logger: 200 GET /new (27 ms) | Time Call: 2020-10-09 09:54:52.009782
+
+[INFO] api_logger: 200 GET /new (27 ms) | Time Call: 2020-10-09 09:54:52.009782
+
+[INFO] api_logger: 200 GET /new (27 ms) | Time Call: 2020-10-09 09:54:52.009782
+
+[INFO] api_logger: 200 GET /new (27 ms) | Time Call: 2020-10-09 09:54:52.009782
+
+[INFO] api_logger: 200 GET /new (27 ms) | Time Call: 2020-10-09 09:54:52.009782
+
+[INFO] api_logger: 200 GET /new (27 ms) | Time Call: 2020-10-09 09:54:52.009782
+
+[INFO] api_logger: {created: true, article: Article(id=5f7fd10ecb69ab918e95c73f, createdAt=2020-10-09 09:55:10.278284, updatedAt=2020-10-09 09:55:10.278284, title=asdasd2222, slug=232, content=233244, email=minh97fa@gmail.com, password=123456, publishDate=2020-10-13 00:00:00.000)} | Time Call: 2020-10-09 09:55:10.457803
+
+[INFO] api_logger: {created: true, article: Article(id=5f7fd10ecb69ab918e95c73f, createdAt=2020-10-09 09:55:10.278284, updatedAt=2020-10-09 09:55:10.278284, title=asdasd2222, slug=232, content=233244, email=minh97fa@gmail.com, password=123456, publishDate=2020-10-13 00:00:00.000)} | Time Call: 2020-10-09 09:55:10.457803
+
+[INFO] api_logger: {created: true, article: Article(id=5f7fd10ecb69ab918e95c73f, createdAt=2020-10-09 09:55:10.278284, updatedAt=2020-10-09 09:55:10.278284, title=asdasd2222, slug=232, content=233244, email=minh97fa@gmail.com, password=123456, publishDate=2020-10-13 00:00:00.000)} | Time Call: 2020-10-09 09:55:10.457803
+
+[INFO] api_logger: {created: true, article: Article(id=5f7fd10ecb69ab918e95c73f, createdAt=2020-10-09 09:55:10.278284, updatedAt=2020-10-09 09:55:10.278284, title=asdasd2222, slug=232, content=233244, email=minh97fa@gmail.com, password=123456, publishDate=2020-10-13 00:00:00.000)} | Time Call: 2020-10-09 09:55:10.457803
+
+[INFO] api_logger: {created: true, article: Article(id=5f7fd10ecb69ab918e95c73f, createdAt=2020-10-09 09:55:10.278284, updatedAt=2020-10-09 09:55:10.278284, title=asdasd2222, slug=232, content=233244, email=minh97fa@gmail.com, password=123456, publishDate=2020-10-13 00:00:00.000)} | Time Call: 2020-10-09 09:55:10.457803
+
+[INFO] api_logger: {created: true, article: Article(id=5f7fd10ecb69ab918e95c73f, createdAt=2020-10-09 09:55:10.278284, updatedAt=2020-10-09 09:55:10.278284, title=asdasd2222, slug=232, content=233244, email=minh97fa@gmail.com, password=123456, publishDate=2020-10-13 00:00:00.000)} | Time Call: 2020-10-09 09:55:10.457803
+
+[INFO] api_logger: {created: true, article: Article(id=5f7fd10ecb69ab918e95c73f, createdAt=2020-10-09 09:55:10.278284, updatedAt=2020-10-09 09:55:10.278284, title=asdasd2222, slug=232, content=233244, email=minh97fa@gmail.com, password=123456, publishDate=2020-10-13 00:00:00.000)} | Time Call: 2020-10-09 09:55:10.457803
+
+[INFO] api_logger: 200 POST /new (214 ms) | Time Call: 2020-10-09 09:55:10.475756
+
+[INFO] api_logger: 200 POST /new (214 ms) | Time Call: 2020-10-09 09:55:10.475756
+
+[INFO] api_logger: 200 POST /new (214 ms) | Time Call: 2020-10-09 09:55:10.475756
+
+[INFO] api_logger: 200 POST /new (214 ms) | Time Call: 2020-10-09 09:55:10.475756
+
+[INFO] api_logger: 200 POST /new (214 ms) | Time Call: 2020-10-09 09:55:10.475756
+
+[INFO] api_logger: 200 POST /new (214 ms) | Time Call: 2020-10-09 09:55:10.475756
+
+[INFO] api_logger: 200 POST /new (214 ms) | Time Call: 2020-10-09 09:55:10.475756
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:58:27.883294
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:58:27.883294
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:58:27.883294
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:58:27.883294
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:58:27.883294
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:58:27.883294
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 09:58:27.883294
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd1edcb69ab918e95c744} | Time Call: 2020-10-09 09:58:53.390888
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd1edcb69ab918e95c744} | Time Call: 2020-10-09 09:58:53.390888
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd1edcb69ab918e95c744} | Time Call: 2020-10-09 09:58:53.390888
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd1edcb69ab918e95c744} | Time Call: 2020-10-09 09:58:53.390888
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd1edcb69ab918e95c744} | Time Call: 2020-10-09 09:58:53.390888
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd1edcb69ab918e95c744} | Time Call: 2020-10-09 09:58:53.390888
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd1edcb69ab918e95c744} | Time Call: 2020-10-09 09:58:53.390888
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd1edcb69ab918e95c744} | Time Call: 2020-10-09 09:58:53.390888
+
+[INFO] api_logger: 200 POST /new (115 ms) | Time Call: 2020-10-09 09:58:53.485636
+
+[INFO] api_logger: 200 POST /new (115 ms) | Time Call: 2020-10-09 09:58:53.485636
+
+[INFO] api_logger: 200 POST /new (115 ms) | Time Call: 2020-10-09 09:58:53.485636
+
+[INFO] api_logger: 200 POST /new (115 ms) | Time Call: 2020-10-09 09:58:53.485636
+
+[INFO] api_logger: 200 POST /new (115 ms) | Time Call: 2020-10-09 09:58:53.485636
+
+[INFO] api_logger: 200 POST /new (115 ms) | Time Call: 2020-10-09 09:58:53.485636
+
+[INFO] api_logger: 200 POST /new (115 ms) | Time Call: 2020-10-09 09:58:53.485636
+
+[INFO] api_logger: 200 POST /new (115 ms) | Time Call: 2020-10-09 09:58:53.485636
+
+[INFO] api_logger: 200 GET /posts/awe (34 ms) | Time Call: 2020-10-09 09:58:55.655611
+
+[INFO] api_logger: 200 GET /posts/awe (34 ms) | Time Call: 2020-10-09 09:58:55.655611
+
+[INFO] api_logger: 200 GET /posts/awe (34 ms) | Time Call: 2020-10-09 09:58:55.655611
+
+[INFO] api_logger: 200 GET /posts/awe (34 ms) | Time Call: 2020-10-09 09:58:55.655611
+
+[INFO] api_logger: 200 GET /posts/awe (34 ms) | Time Call: 2020-10-09 09:58:55.655611
+
+[INFO] api_logger: 200 GET /posts/awe (34 ms) | Time Call: 2020-10-09 09:58:55.655611
+
+[INFO] api_logger: 200 GET /posts/awe (34 ms) | Time Call: 2020-10-09 09:58:55.655611
+
+[INFO] api_logger: 200 GET /posts/awe (34 ms) | Time Call: 2020-10-09 09:58:55.655611
+
+[INFO] api_logger: 200 GET /posts/awe/edit (17 ms) | Time Call: 2020-10-09 09:58:57.857316
+
+[INFO] api_logger: 200 GET /posts/awe/edit (17 ms) | Time Call: 2020-10-09 09:58:57.857316
+
+[INFO] api_logger: 200 GET /posts/awe/edit (17 ms) | Time Call: 2020-10-09 09:58:57.857316
+
+[INFO] api_logger: 200 GET /posts/awe/edit (17 ms) | Time Call: 2020-10-09 09:58:57.857316
+
+[INFO] api_logger: 200 GET /posts/awe/edit (17 ms) | Time Call: 2020-10-09 09:58:57.857316
+
+[INFO] api_logger: 200 GET /posts/awe/edit (17 ms) | Time Call: 2020-10-09 09:58:57.857316
+
+[INFO] api_logger: 200 GET /posts/awe/edit (17 ms) | Time Call: 2020-10-09 09:58:57.857316
+
+[INFO] api_logger: 200 GET /posts/awe/edit (17 ms) | Time Call: 2020-10-09 09:58:57.857316
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:00:09.720666
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:00:09.720666
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:00:09.720666
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:00:09.720666
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:00:09.720666
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:00:09.720666
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:00:09.720666
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:00:09.720666
+
+[INFO] api_logger: 200 GET /new (112 ms) | Time Call: 2020-10-09 10:03:12.533239
+
+[INFO] api_logger: {created_at: 2020-10-09T10:03:38.440961, updated_at: 2020-10-09T10:03:38.440961, title: asxxxxx, slug: aghss, content: aaxcxc, email: wi@asd, password: 123457a, publish_date: 2020-09-17 00:00:00.000, id: 5f7fd30acb69ab918e95c758} | Time Call: 2020-10-09 10:03:38.449941
+
+[INFO] api_logger: 200 POST /new (67 ms) | Time Call: 2020-10-09 10:03:38.471880
+
+[INFO] api_logger: 200 GET / (33 ms) | Time Call: 2020-10-09 10:03:41.012073
+
+[INFO] api_logger: 200 GET /posts/aghss (44 ms) | Time Call: 2020-10-09 10:03:54.105443
+
+[INFO] api_logger: 200 GET /search?q=Namfix (6080 ms) | Time Call: 2020-10-09 10:04:46.677356
+
+[INFO] api_logger: 200 GET /search?q=Namfix (897 ms) | Time Call: 2020-10-09 10:04:46.690323
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:18:32.801864
+
+[INFO] api_logger: 200 GET /new (286 ms) | Time Call: 2020-10-09 10:18:44.843055
+
+[INFO] api_logger: 200 GET /new (286 ms) | Time Call: 2020-10-09 10:18:44.843055
+
+[INFO] api_logger: {id: , email: w22i@asd, password: weqwe, title: aaaasd, slug: 2345, publish_date: 2020-10-21, content: 2324aaaa} | Time Call: 2020-10-09 10:19:04.327830
+
+[INFO] api_logger: {id: , email: w22i@asd, password: weqwe, title: aaaasd, slug: 2345, publish_date: 2020-10-21, content: 2324aaaa} | Time Call: 2020-10-09 10:19:04.327830
+
+[INFO] api_logger: {created_at: 2020-10-09T10:19:04.343785, updated_at: 2020-10-09T10:19:04.343785, title: aaaasd, slug: 2345, content: 2324aaaa, email: w22i@asd, password: weqwe, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd6a8cb69ab918e95c851} | Time Call: 2020-10-09 10:19:04.552227
+
+[INFO] api_logger: {created_at: 2020-10-09T10:19:04.343785, updated_at: 2020-10-09T10:19:04.343785, title: aaaasd, slug: 2345, content: 2324aaaa, email: w22i@asd, password: weqwe, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd6a8cb69ab918e95c851} | Time Call: 2020-10-09 10:19:04.552227
+
+[INFO] api_logger: 200 POST /new (329 ms) | Time Call: 2020-10-09 10:19:04.610073
+
+[INFO] api_logger: 200 POST /new (329 ms) | Time Call: 2020-10-09 10:19:04.610073
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:21:57.754534
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:21:57.754534
+
+[INFO] api_logger: {id: 5f7fd6a8cb69ab918e95c851, email: asd@gmail.com, password: weqwe, title: aaaasd, slug: 2345, publish_date: 2020-10-21, content: 2324aaaa} | Time Call: 2020-10-09 10:22:08.768140
+
+[INFO] api_logger: {id: 5f7fd6a8cb69ab918e95c851, email: asd@gmail.com, password: weqwe, title: aaaasd, slug: 2345, publish_date: 2020-10-21, content: 2324aaaa} | Time Call: 2020-10-09 10:22:08.768140
+
+[INFO] api_logger: {id: 5f7fd6a8cb69ab918e95c851, email: asd@gmail.com, password: weqwe, title: aaaasd, slug: 2345, publish_date: 2020-10-21, content: 2324aaaa} | Time Call: 2020-10-09 10:22:08.768140
+
+[INFO] api_logger: Article(id=5f7fd6a8cb69ab918e95c851, createdAt=null, updatedAt=null, title=aaaasd, slug=2345, content=2324aaaa, email=asd@gmail.com, password=weqwe, publishDate=2020-10-21 00:00:00.000) | Time Call: 2020-10-09 10:22:08.774126
+
+[INFO] api_logger: Article(id=5f7fd6a8cb69ab918e95c851, createdAt=null, updatedAt=null, title=aaaasd, slug=2345, content=2324aaaa, email=asd@gmail.com, password=weqwe, publishDate=2020-10-21 00:00:00.000) | Time Call: 2020-10-09 10:22:08.774126
+
+[INFO] api_logger: Article(id=5f7fd6a8cb69ab918e95c851, createdAt=null, updatedAt=null, title=aaaasd, slug=2345, content=2324aaaa, email=asd@gmail.com, password=weqwe, publishDate=2020-10-21 00:00:00.000) | Time Call: 2020-10-09 10:22:08.774126
+
+[INFO] api_logger: 200 POST /new (225 ms) | Time Call: 2020-10-09 10:22:08.982077
+
+[INFO] api_logger: 200 POST /new (225 ms) | Time Call: 2020-10-09 10:22:08.982077
+
+[INFO] api_logger: 200 POST /new (225 ms) | Time Call: 2020-10-09 10:22:08.982077
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:24:55.755633
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:24:55.755633
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 10:24:55.755633
+
+[INFO] api_logger: {created_at: 2020-10-10, updated_at: 2020-10-10, email: dheasema22n23j@mediafire.com, password: iXOV215iSL, title: test, slug: abc, publishDate: 2020-10-10, content: test abc123, id: asdasdas223} | Time Call: 2020-10-09 10:34:00.742138
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 10:34:00.752089
+
+[INFO] api_logger: 500 POST /new (22 ms) | Time Call: 2020-10-09 10:34:00.761065
+
+[INFO] api_logger: {id: asdasdas223, createdAt: 2020-10-10, updatedAt: 2020-10-10, title: test, slug: abc, email: dheasema22n23j@mediafire.com, password: iXOV215iSL, publishDate: 2020-10-10, content: test abc123} | Time Call: 2020-10-09 10:36:18.664046
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 10:36:18.666041
+
+[INFO] api_logger: 500 POST /new (4 ms) | Time Call: 2020-10-09 10:36:18.668036
+
+[INFO] api_logger: {id: asdasdas223, createdAt: 2020-10-10, updatedAt: 2020-10-10, title: test, slug: abc, content: test abc123, email: dheasema22n23j@mediafire.com, password: iXOV215iSL, publishDate: 2020-10-10} | Time Call: 2020-10-09 10:37:01.131620
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 10:37:01.134614
+
+[INFO] api_logger: 500 POST /new (5 ms) | Time Call: 2020-10-09 10:37:01.136608
+
+[INFO] api_logger: {id: 5f7fd6a8cb29ac918e95c851, createdAt: null, updatedAt: null, title: aaaasd, slug: 2345, content: 2324aaaa, email: asd@gmail.com, password: weqwe, publishDate: 2020-10-21 00:00:00.000} | Time Call: 2020-10-09 10:39:28.965496
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 10:39:28.967492
+
+[INFO] api_logger: 500 POST /new (4 ms) | Time Call: 2020-10-09 10:39:28.969487
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fd1edcb69ab918e95c744} | Time Call: 2020-10-09 10:41:40.283874
+
+[INFO] api_logger: 400 POST /new (14 ms) | Time Call: 2020-10-09 10:41:40.297838
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21, id: 5f7fd1edcb69ab918e95c744} | Time Call: 2020-10-09 10:42:46.340522
+
+[INFO] api_logger: {created_at: 2020-10-09T10:42:46.343513, updated_at: 2020-10-09T10:42:46.343513, title: banh mi kep thit, slug: awe, content: test luon, email: min222h97fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fdc36cb69ab918e95c98c} | Time Call: 2020-10-09 10:42:46.527532
+
+[INFO] api_logger: 200 POST /new (195 ms) | Time Call: 2020-10-09 10:42:46.534510
+
+[INFO] api_logger: {created_at: 2020-10-09T09:58:53.382912, updated_at: 2020-10-09T09:58:53.382912, title: banh mi kep thit, slug: awe, content: test luon, email: min222h9723fa@gmail.com, password: testne, publish_date: 2020-10-21} | Time Call: 2020-10-09 10:44:22.789110
+
+[INFO] api_logger: {created_at: 2020-10-09T10:44:22.790108, updated_at: 2020-10-09T10:44:22.790108, title: banh mi kep thit, slug: awe, content: test luon, email: min222h9723fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fdc96cb69ab918e95c9a6} | Time Call: 2020-10-09 10:44:22.793102
+
+[INFO] api_logger: 200 POST /new (6 ms) | Time Call: 2020-10-09 10:44:22.795096
+
+[INFO] api_logger: {created_at: 2020-10-09, updated_at: 2020-10-09, title: banh mi kep thit, slug: awe, content: test luon, email: min222h91723fa@gmail.com, password: testne, publish_date: 2020-10-21} | Time Call: 2020-10-09 10:47:01.330398
+
+[INFO] api_logger: {created_at: 2020-10-09T10:47:01.331397, updated_at: 2020-10-09T10:47:01.331397, title: banh mi kep thit, slug: awe, content: test luon, email: min222h91723fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fdd35cb69ab918e95c9c9} | Time Call: 2020-10-09 10:47:01.363311
+
+[INFO] api_logger: 200 POST /new (36 ms) | Time Call: 2020-10-09 10:47:01.366306
+
+[INFO] api_logger: {title: banh mi kep thit, slug: awe, content: test luon, email: min222h91723fa@gmail.com, password: testne, publish_date: 2020-10-21} | Time Call: 2020-10-09 10:48:22.861555
+
+[INFO] api_logger: {created_at: 2020-10-09T10:48:22.868536, updated_at: 2020-10-09T10:48:22.868536, title: banh mi kep thit, slug: awe, content: test luon, email: min222h91723fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fdd86cb69ab918e95c9dc} | Time Call: 2020-10-09 10:48:22.873522
+
+[INFO] api_logger: 200 POST /new (14 ms) | Time Call: 2020-10-09 10:48:22.875516
+
+[INFO] api_logger: {title: banh mi kepkkk thit, slug: awe, content: test luon, email: min2hhh1723fa@gmail.com, password: testne, publish_date: 2020-10-21} | Time Call: 2020-10-09 10:48:57.769840
+
+[INFO] api_logger: {created_at: 2020-10-09T10:48:57.776822, updated_at: 2020-10-09T10:48:57.776822, title: banh mi kepkkk thit, slug: awe, content: test luon, email: min2hhh1723fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fdda9cb69ab918e95c9e5} | Time Call: 2020-10-09 10:48:57.792778
+
+[INFO] api_logger: 200 POST /new (24 ms) | Time Call: 2020-10-09 10:48:57.793776
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: awe, content: test luon, email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 10:50:52.597876
+
+[INFO] api_logger: {created_at: 2020-10-09T10:50:52.599871, updated_at: 2020-10-09T10:50:52.599871, title: banh mi kepkkk thit, slug: awe, content: test luon, email: min2hhh1723fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fde1ccb69ab918e95ca24} | Time Call: 2020-10-09 10:50:52.603866
+
+[INFO] api_logger: 200 POST /new (7 ms) | Time Call: 2020-10-09 10:50:52.604857
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: null, slug: awe, content: test luon, email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 10:54:38.338312
+
+[SEVERE] api_logger: NoSuchMethodError: The getter 'isNotEmpty' was called on null.
+Receiver: null
+Tried calling: isNotEmpty | Time Call: 2020-10-09 10:54:38.339311
+
+[INFO] api_logger: 500 POST /new (3 ms) | Time Call: 2020-10-09 10:54:38.341305
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: awe, content: test luon, email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 10:54:41.822695
+
+[INFO] api_logger: {created_at: 2020-10-09T10:54:41.823693, updated_at: 2020-10-09T10:54:41.823693, title: banh mi kepkkk thit, slug: awe, content: test luon, email: min2hhh1723fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fdf01cb69ab918e95ca58} | Time Call: 2020-10-09 10:54:41.839649
+
+[INFO] api_logger: 200 POST /new (18 ms) | Time Call: 2020-10-09 10:54:41.840649
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: , content: test luon, email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 10:54:48.685262
+
+[INFO] api_logger: 400 POST /new (7 ms) | Time Call: 2020-10-09 10:54:48.692242
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: , content: , email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:00:24.290985
+
+[INFO] api_logger: 400 POST /new (18 ms) | Time Call: 2020-10-09 11:00:24.308453
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:00:40.421363
+
+[INFO] api_logger: {created_at: 2020-10-09T11:00:40.422362, updated_at: 2020-10-09T11:00:40.422362, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2hhh1723fa@gmail.com, password: testne, publish_date: 2020-10-21 00:00:00.000, id: 5f7fe068cb69ab918e95caa6} | Time Call: 2020-10-09 11:00:40.424357
+
+[INFO] api_logger: 200 POST /new (5 ms) | Time Call: 2020-10-09 11:00:40.426350
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: , slug: , content: , email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:00:49.331309
+
+[INFO] api_logger: 400 POST /new (2 ms) | Time Call: 2020-10-09 11:00:49.333305
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:04:36.109013
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:06:29.602694
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:06:29.602694
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:08:39.245817
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:08:39.245817
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:08:39.245817
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:08:45.163404
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:08:45.163404
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:08:45.163404
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2hhh1723fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:08:45.163404
+
+[INFO] api_logger: 400 POST /new (184 ms) | Time Call: 2020-10-09 11:08:45.343925
+
+[INFO] api_logger: 400 POST /new (184 ms) | Time Call: 2020-10-09 11:08:45.343925
+
+[INFO] api_logger: 400 POST /new (184 ms) | Time Call: 2020-10-09 11:08:45.343925
+
+[INFO] api_logger: 400 POST /new (184 ms) | Time Call: 2020-10-09 11:08:45.343925
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2hhh17a23fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:08:51.616370
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2hhh17a23fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:08:51.616370
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2hhh17a23fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:08:51.616370
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2hhh17a23fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:08:51.616370
+
+[INFO] api_logger: 400 POST /new (6 ms) | Time Call: 2020-10-09 11:08:51.623354
+
+[INFO] api_logger: 400 POST /new (6 ms) | Time Call: 2020-10-09 11:08:51.623354
+
+[INFO] api_logger: 400 POST /new (6 ms) | Time Call: 2020-10-09 11:08:51.623354
+
+[INFO] api_logger: 400 POST /new (6 ms) | Time Call: 2020-10-09 11:08:51.623354
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2323@gmail.com, password: testne} | Time Call: 2020-10-09 11:09:01.022768
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2323@gmail.com, password: testne} | Time Call: 2020-10-09 11:09:01.022768
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2323@gmail.com, password: testne} | Time Call: 2020-10-09 11:09:01.022768
+
+[INFO] api_logger: {publish_date: 2020-10-21, title: banh mi kepkkk thit, slug: asdsd, content: , email: min2323@gmail.com, password: testne} | Time Call: 2020-10-09 11:09:01.022768
+
+[INFO] api_logger: 400 POST /new (14 ms) | Time Call: 2020-10-09 11:09:01.036734
+
+[INFO] api_logger: 400 POST /new (14 ms) | Time Call: 2020-10-09 11:09:01.036734
+
+[INFO] api_logger: 400 POST /new (14 ms) | Time Call: 2020-10-09 11:09:01.036734
+
+[INFO] api_logger: 400 POST /new (14 ms) | Time Call: 2020-10-09 11:09:01.036734
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:10:35.889913
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:10:35.889913
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:10:35.889913
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:10:35.889913
+
+[INFO] api_logger: 400 POST /new (19 ms) | Time Call: 2020-10-09 11:10:41.829244
+
+[INFO] api_logger: 400 POST /new (19 ms) | Time Call: 2020-10-09 11:10:41.829244
+
+[INFO] api_logger: 400 POST /new (19 ms) | Time Call: 2020-10-09 11:10:41.829244
+
+[INFO] api_logger: 400 POST /new (19 ms) | Time Call: 2020-10-09 11:10:41.829244
+
+[INFO] api_logger: 400 POST /new (19 ms) | Time Call: 2020-10-09 11:10:41.829244
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:12:05.958988
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:12:05.958988
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:12:05.958988
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:12:05.958988
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:12:05.958988
+
+[INFO] api_logger: 400 POST /new (53 ms) | Time Call: 2020-10-09 11:12:26.233346
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:12:44.317373
+
+[INFO] api_logger: 400 POST /new (20 ms) | Time Call: 2020-10-09 11:12:55.795030
+
+[INFO] api_logger: 400 POST /new (20 ms) | Time Call: 2020-10-09 11:12:55.795030
+
+[INFO] api_logger: 400 POST /new (6 ms) | Time Call: 2020-10-09 11:13:00.743238
+
+[INFO] api_logger: 400 POST /new (6 ms) | Time Call: 2020-10-09 11:13:00.743238
+
+[INFO] api_logger: 400 POST /new (7 ms) | Time Call: 2020-10-09 11:13:09.573142
+
+[INFO] api_logger: 400 POST /new (7 ms) | Time Call: 2020-10-09 11:13:09.573142
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:14:22.235126
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:14:22.235126
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhsd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:14:26.652460
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhsd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:14:26.652460
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhsd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:14:26.652460
+
+[INFO] api_logger: {created_at: 2020-10-09T11:14:26.658440, updated_at: 2020-10-09T11:14:26.659438, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhsd97fa@gmail.com, password: testne, publish_date: 2020-10-22 00:00:00.000, id: 5f7fe3a2cb69ab918e95cb69} | Time Call: 2020-10-09 11:14:26.673399
+
+[INFO] api_logger: {created_at: 2020-10-09T11:14:26.658440, updated_at: 2020-10-09T11:14:26.659438, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhsd97fa@gmail.com, password: testne, publish_date: 2020-10-22 00:00:00.000, id: 5f7fe3a2cb69ab918e95cb69} | Time Call: 2020-10-09 11:14:26.673399
+
+[INFO] api_logger: {created_at: 2020-10-09T11:14:26.658440, updated_at: 2020-10-09T11:14:26.659438, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhsd97fa@gmail.com, password: testne, publish_date: 2020-10-22 00:00:00.000, id: 5f7fe3a2cb69ab918e95cb69} | Time Call: 2020-10-09 11:14:26.673399
+
+[INFO] api_logger: 200 POST /new (33 ms) | Time Call: 2020-10-09 11:14:26.680381
+
+[INFO] api_logger: 200 POST /new (33 ms) | Time Call: 2020-10-09 11:14:26.680381
+
+[INFO] api_logger: 200 POST /new (33 ms) | Time Call: 2020-10-09 11:14:26.680381
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:28:21.421595
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:28:21.421595
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:28:21.421595
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:28:33.602547
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:28:33.602547
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:28:33.602547
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:28:33.602547
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:29:32.337553
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:29:32.337553
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:29:32.337553
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:29:32.337553
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:29:32.337553
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:30:08.252980
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:30:08.252980
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:30:08.252980
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:30:08.252980
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:30:08.252980
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:30:08.252980
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:30:22.004465
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:30:22.004465
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:30:22.004465
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:30:22.004465
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:30:22.004465
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:30:22.004465
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:30:22.004465
+
+[INFO] api_logger: 401 POST /new (54 ms) | Time Call: 2020-10-09 11:30:22.054332
+
+[INFO] api_logger: 401 POST /new (54 ms) | Time Call: 2020-10-09 11:30:22.054332
+
+[INFO] api_logger: 401 POST /new (54 ms) | Time Call: 2020-10-09 11:30:22.054332
+
+[INFO] api_logger: 401 POST /new (54 ms) | Time Call: 2020-10-09 11:30:22.054332
+
+[INFO] api_logger: 401 POST /new (54 ms) | Time Call: 2020-10-09 11:30:22.054332
+
+[INFO] api_logger: 401 POST /new (54 ms) | Time Call: 2020-10-09 11:30:22.054332
+
+[INFO] api_logger: 401 POST /new (54 ms) | Time Call: 2020-10-09 11:30:22.054332
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:15.558700
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:15.558700
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:15.558700
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:15.558700
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:15.558700
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:15.558700
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:15.558700
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:20.216287
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:20.216287
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:20.216287
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:20.216287
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:20.216287
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:20.216287
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:20.216287
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minhszd97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:20.216287
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:20.299065
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:20.299065
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:20.299065
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:20.299065
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:20.299065
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:20.299065
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:20.299065
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:20.299065
+
+[INFO] api_logger: 200 POST /new (96 ms) | Time Call: 2020-10-09 11:32:20.308042
+
+[INFO] api_logger: 200 POST /new (96 ms) | Time Call: 2020-10-09 11:32:20.308042
+
+[INFO] api_logger: 200 POST /new (96 ms) | Time Call: 2020-10-09 11:32:20.308042
+
+[INFO] api_logger: 200 POST /new (96 ms) | Time Call: 2020-10-09 11:32:20.308042
+
+[INFO] api_logger: 200 POST /new (96 ms) | Time Call: 2020-10-09 11:32:20.308042
+
+[INFO] api_logger: 200 POST /new (96 ms) | Time Call: 2020-10-09 11:32:20.308042
+
+[INFO] api_logger: 200 POST /new (96 ms) | Time Call: 2020-10-09 11:32:20.308042
+
+[INFO] api_logger: 200 POST /new (96 ms) | Time Call: 2020-10-09 11:32:20.308042
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:24.948332
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:24.948332
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:24.948332
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:24.948332
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:24.948332
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:24.948332
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:24.948332
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:32:24.948332
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:24.961294
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:24.961294
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:24.961294
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:24.961294
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:24.961294
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:24.961294
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:24.961294
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:32:24.961294
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-09 11:32:24.969274
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-09 11:32:24.969274
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-09 11:32:24.969274
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-09 11:32:24.969274
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-09 11:32:24.969274
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-09 11:32:24.969274
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-09 11:32:24.969274
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-09 11:32:24.969274
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:43.623727
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:43.623727
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:43.623727
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:43.623727
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:43.623727
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:43.623727
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:43.623727
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:32:43.623727
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:33:57.078723
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:33:57.078723
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:33:57.078723
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:33:57.078723
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:33:57.078723
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:33:57.078723
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:33:57.078723
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:33:57.078723
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:33:57.078723
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:02.775968
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:02.775968
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:02.775968
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:02.775968
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:02.775968
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:02.775968
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:02.775968
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:02.775968
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:02.775968
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:02.775968
+
+[INFO] api_logger: 401 POST /new (35 ms) | Time Call: 2020-10-09 11:34:02.805884
+
+[INFO] api_logger: 401 POST /new (35 ms) | Time Call: 2020-10-09 11:34:02.805884
+
+[INFO] api_logger: 401 POST /new (35 ms) | Time Call: 2020-10-09 11:34:02.805884
+
+[INFO] api_logger: 401 POST /new (35 ms) | Time Call: 2020-10-09 11:34:02.805884
+
+[INFO] api_logger: 401 POST /new (35 ms) | Time Call: 2020-10-09 11:34:02.805884
+
+[INFO] api_logger: 401 POST /new (35 ms) | Time Call: 2020-10-09 11:34:02.805884
+
+[INFO] api_logger: 401 POST /new (35 ms) | Time Call: 2020-10-09 11:34:02.805884
+
+[INFO] api_logger: 401 POST /new (35 ms) | Time Call: 2020-10-09 11:34:02.805884
+
+[INFO] api_logger: 401 POST /new (35 ms) | Time Call: 2020-10-09 11:34:02.805884
+
+[INFO] api_logger: 401 POST /new (35 ms) | Time Call: 2020-10-09 11:34:02.805884
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:05.905971
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:05.905971
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:05.905971
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:05.905971
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:05.905971
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:05.905971
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:05.905971
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:05.905971
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:05.905971
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsh97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:05.905971
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:05.920930
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:05.920930
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:05.920930
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:05.920930
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:05.920930
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:05.920930
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:05.920930
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:05.920930
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:05.920930
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:05.920930
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:10.902198
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:10.902198
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:10.902198
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:10.902198
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:10.902198
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:10.902198
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:10.902198
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:10.902198
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:10.902198
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minsah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:10.902198
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:10.917157
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:10.917157
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:10.917157
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:10.917157
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:10.917157
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:10.917157
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:10.917157
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:10.917157
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:10.917157
+
+[INFO] api_logger: 401 POST /new (15 ms) | Time Call: 2020-10-09 11:34:10.917157
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:18.363413
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:18.363413
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:18.363413
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:18.363413
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:18.363413
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:18.363413
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:18.363413
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:18.363413
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:18.363413
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:34:18.363413
+
+[INFO] api_logger: 401 POST /new (18 ms) | Time Call: 2020-10-09 11:34:18.381366
+
+[INFO] api_logger: 401 POST /new (18 ms) | Time Call: 2020-10-09 11:34:18.381366
+
+[INFO] api_logger: 401 POST /new (18 ms) | Time Call: 2020-10-09 11:34:18.381366
+
+[INFO] api_logger: 401 POST /new (18 ms) | Time Call: 2020-10-09 11:34:18.381366
+
+[INFO] api_logger: 401 POST /new (18 ms) | Time Call: 2020-10-09 11:34:18.381366
+
+[INFO] api_logger: 401 POST /new (18 ms) | Time Call: 2020-10-09 11:34:18.381366
+
+[INFO] api_logger: 401 POST /new (18 ms) | Time Call: 2020-10-09 11:34:18.381366
+
+[INFO] api_logger: 401 POST /new (18 ms) | Time Call: 2020-10-09 11:34:18.381366
+
+[INFO] api_logger: 401 POST /new (18 ms) | Time Call: 2020-10-09 11:34:18.381366
+
+[INFO] api_logger: 401 POST /new (18 ms) | Time Call: 2020-10-09 11:34:18.381366
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:35:43.662677
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:35:43.662677
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:35:43.662677
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:35:43.662677
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:35:43.662677
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:35:43.662677
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:35:43.662677
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:35:43.662677
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:35:43.662677
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:35:43.662677
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasdah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:48.931740
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: 401 POST /new (29 ms) | Time Call: 2020-10-09 11:35:48.956674
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: minssadasadah97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:35:54.567328
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: 401 POST /new (14 ms) | Time Call: 2020-10-09 11:35:54.581291
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:03.218669
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: 401 POST /new (8 ms) | Time Call: 2020-10-09 11:36:03.227644
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:20.238660
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:36:24.838844
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:36:24.871757
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: 200 POST /new (47 ms) | Time Call: 2020-10-09 11:36:24.880732
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:36:50.479040
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: min97fa@gmail.com, password: testne} | Time Call: 2020-10-09 11:37:05.494091
+
+[INFO] api_logger: {created_at: null, updated_at: 2020-09-25T11:58:42.498052, title: Bánh Mì Kẹp Thịt, slug: banh-mi, content: Bánh mì kẹp thịt ăn rất ngon, publish_date: 2020-09-25 00:00:00.000, email: minh123@gmail.com, password: 1, id: 5f6d78dd5a16b5f26d92d16b} | Time Call: 2020-10-09 11:37:05.530991
+
+[INFO] api_logger: success | Time Call: 2020-10-09 11:37:05.543957
+
+[INFO] api_logger: 200 POST /new (64 ms) | Time Call: 2020-10-09 11:37:05.546950
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-09 11:37:23.574584
+
+[INFO] api_logger: 200 POST /login (157 ms) | Time Call: 2020-10-13 16:36:55.799949
+
+[INFO] api_logger: 200 POST /login (157 ms) | Time Call: 2020-10-13 16:36:55.799949
+
+[INFO] api_logger: 200 POST /login (29 ms) | Time Call: 2020-10-13 16:39:06.033298
+
+[INFO] api_logger: 200 POST /login (29 ms) | Time Call: 2020-10-13 16:39:06.033298
+
+[INFO] api_logger: 200 POST /login (175 ms) | Time Call: 2020-10-13 16:54:26.106070
+
+[INFO] api_logger: 200 POST /login (175 ms) | Time Call: 2020-10-13 16:54:26.106070
+
+[INFO] api_logger: 200 POST /login (513 ms) | Time Call: 2020-10-13 17:03:01.876616
+
+[INFO] api_logger: 200 POST /login (513 ms) | Time Call: 2020-10-13 17:03:01.876616
+
+[INFO] api_logger: 200 POST /login (389 ms) | Time Call: 2020-10-13 17:19:44.934095
+
+[INFO] api_logger: 200 POST /login (389 ms) | Time Call: 2020-10-13 17:19:44.934095
+
+[INFO] api_logger: 200 POST /login (171 ms) | Time Call: 2020-10-13 17:25:51.336436
+
+[INFO] api_logger: 200 POST /login (171 ms) | Time Call: 2020-10-13 17:25:51.336436
+
+[INFO] api_logger: 200 POST /login (115 ms) | Time Call: 2020-10-13 17:29:25.102334
+
+[INFO] api_logger: 200 POST /login (115 ms) | Time Call: 2020-10-13 17:29:25.102334
+
+[INFO] api_logger: 200 POST /login (99 ms) | Time Call: 2020-10-13 17:30:41.946638
+
+[INFO] api_logger: 200 POST /login (99 ms) | Time Call: 2020-10-13 17:30:41.946638
+
+[INFO] api_logger: 200 POST /login (29 ms) | Time Call: 2020-10-13 17:34:05.837378
+
+[INFO] api_logger: 200 POST /login (29 ms) | Time Call: 2020-10-13 17:34:05.837378
+
+[INFO] api_logger: 200 POST /login (203 ms) | Time Call: 2020-10-13 17:41:01.642252
+
+[INFO] api_logger: 200 POST /login (203 ms) | Time Call: 2020-10-13 17:41:01.642252
+
+[INFO] api_logger: 200 POST /login (2 ms) | Time Call: 2020-10-13 17:42:17.411644
+
+[INFO] api_logger: 200 POST /login (2 ms) | Time Call: 2020-10-13 17:42:17.411644
+
+[INFO] api_logger: 200 GET /?page=1 (32206 ms) | Time Call: 2020-10-14 08:58:00.639856
+
+[INFO] api_logger: 200 GET /?page=1 (32206 ms) | Time Call: 2020-10-14 08:58:00.639856
+
+[INFO] api_logger: 200 GET / (375 ms) | Time Call: 2020-10-14 09:01:21.416229
+
+[INFO] api_logger: 200 GET / (375 ms) | Time Call: 2020-10-14 09:01:21.416229
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-14 09:03:20.625723
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-14 09:03:20.625723
+
+[INFO] api_logger: 200 GET / (257 ms) | Time Call: 2020-10-14 09:04:39.623942
+
+[INFO] api_logger: 200 GET / (257 ms) | Time Call: 2020-10-14 09:04:39.623942
+
+[INFO] api_logger: 200 GET / (257 ms) | Time Call: 2020-10-14 09:04:39.623942
+
+[INFO] api_logger: 200 GET / (7 ms) | Time Call: 2020-10-14 09:04:39.752117
+
+[INFO] api_logger: 200 GET / (7 ms) | Time Call: 2020-10-14 09:04:39.752117
+
+[INFO] api_logger: 200 GET / (7 ms) | Time Call: 2020-10-14 09:04:39.752117
+
+[INFO] api_logger: 200 GET /?page=1 (3 ms) | Time Call: 2020-10-14 09:05:19.106905
+
+[INFO] api_logger: 200 GET /?page=1 (3 ms) | Time Call: 2020-10-14 09:05:19.106905
+
+[INFO] api_logger: 200 GET /?page=1 (3 ms) | Time Call: 2020-10-14 09:05:19.106905
+
+[INFO] api_logger: 200 GET /?page=1 (106 ms) | Time Call: 2020-10-14 09:32:59.291097
+
+[INFO] api_logger: 200 GET /?page=1 (106 ms) | Time Call: 2020-10-14 09:32:59.291097
+
+[INFO] api_logger: 200 GET /?page=1 (106 ms) | Time Call: 2020-10-14 09:32:59.291097
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:35:40.897049
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:35:40.897049
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:35:40.897049
+
+[INFO] api_logger: 200 GET /?page=1 (5 ms) | Time Call: 2020-10-14 09:37:20.863869
+
+[INFO] api_logger: 200 GET /?page=1 (5 ms) | Time Call: 2020-10-14 09:37:20.863869
+
+[INFO] api_logger: 200 GET /?page=1 (5 ms) | Time Call: 2020-10-14 09:37:20.863869
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-14 09:38:29.424568
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-14 09:38:29.424568
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-14 09:38:29.424568
+
+[INFO] api_logger: 200 GET / (57 ms) | Time Call: 2020-10-14 09:38:51.885302
+
+[INFO] api_logger: 200 GET / (57 ms) | Time Call: 2020-10-14 09:38:51.885302
+
+[INFO] api_logger: 200 GET / (57 ms) | Time Call: 2020-10-14 09:38:51.885302
+
+[INFO] api_logger: 200 GET / (57 ms) | Time Call: 2020-10-14 09:38:51.885302
+
+[INFO] api_logger: 200 GET /?page=1 (486 ms) | Time Call: 2020-10-14 09:39:11.337270
+
+[INFO] api_logger: 200 GET /?page=1 (486 ms) | Time Call: 2020-10-14 09:39:11.337270
+
+[INFO] api_logger: 200 GET /?page=1 (486 ms) | Time Call: 2020-10-14 09:39:11.337270
+
+[INFO] api_logger: 200 GET /?page=1 (486 ms) | Time Call: 2020-10-14 09:39:11.337270
+
+[INFO] api_logger: 200 GET /?page=1 (55 ms) | Time Call: 2020-10-14 09:41:45.927685
+
+[INFO] api_logger: 200 GET /?page=1 (55 ms) | Time Call: 2020-10-14 09:41:45.927685
+
+[INFO] api_logger: 200 GET /?page=1 (55 ms) | Time Call: 2020-10-14 09:41:45.927685
+
+[INFO] api_logger: 200 GET /?page=1 (55 ms) | Time Call: 2020-10-14 09:41:45.927685
+
+[INFO] api_logger: 200 GET /?page=1 (19 ms) | Time Call: 2020-10-14 09:42:08.036993
+
+[INFO] api_logger: 200 GET /?page=1 (19 ms) | Time Call: 2020-10-14 09:42:08.036993
+
+[INFO] api_logger: 200 GET /?page=1 (19 ms) | Time Call: 2020-10-14 09:42:08.036993
+
+[INFO] api_logger: 200 GET /?page=1 (19 ms) | Time Call: 2020-10-14 09:42:08.036993
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:42:31.524511
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:42:31.524511
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:42:31.524511
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:42:31.524511
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:42:52.203546
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:42:52.203546
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:42:52.203546
+
+[INFO] api_logger: 200 GET /?page=1 (4 ms) | Time Call: 2020-10-14 09:42:52.203546
+
+[INFO] api_logger: 200 GET /?page=2 (51 ms) | Time Call: 2020-10-14 09:42:53.131135
+
+[INFO] api_logger: 200 GET /?page=2 (51 ms) | Time Call: 2020-10-14 09:42:53.131135
+
+[INFO] api_logger: 200 GET /?page=2 (51 ms) | Time Call: 2020-10-14 09:42:53.131135
+
+[INFO] api_logger: 200 GET /?page=2 (51 ms) | Time Call: 2020-10-14 09:42:53.131135
+
+[INFO] api_logger: 200 GET /?page=1 (3 ms) | Time Call: 2020-10-14 09:43:23.666078
+
+[INFO] api_logger: 200 GET /?page=1 (3 ms) | Time Call: 2020-10-14 09:43:23.666078
+
+[INFO] api_logger: 200 GET /?page=1 (3 ms) | Time Call: 2020-10-14 09:43:23.666078
+
+[INFO] api_logger: 200 GET /?page=1 (3 ms) | Time Call: 2020-10-14 09:43:23.666078
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-14 09:44:33.543989
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-14 09:44:33.543989
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-14 09:44:33.543989
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-14 09:44:33.543989
+
+[INFO] api_logger: 200 GET / (318 ms) | Time Call: 2020-10-14 09:47:19.616029
+
+[INFO] api_logger: 200 GET / (318 ms) | Time Call: 2020-10-14 09:47:19.616029
+
+[INFO] api_logger: 200 GET / (318 ms) | Time Call: 2020-10-14 09:47:19.616029
+
+[INFO] api_logger: 200 GET / (318 ms) | Time Call: 2020-10-14 09:47:19.616029
+
+[INFO] api_logger: 200 GET / (318 ms) | Time Call: 2020-10-14 09:47:19.616029
+
+[INFO] api_logger: 200 GET /?page=1 (25 ms) | Time Call: 2020-10-14 09:48:26.001366
+
+[INFO] api_logger: 200 GET /?page=1 (25 ms) | Time Call: 2020-10-14 09:48:26.001366
+
+[INFO] api_logger: 200 GET /?page=1 (25 ms) | Time Call: 2020-10-14 09:48:26.001366
+
+[INFO] api_logger: 200 GET /?page=1 (25 ms) | Time Call: 2020-10-14 09:48:26.001366
+
+[INFO] api_logger: 200 GET /?page=1 (25 ms) | Time Call: 2020-10-14 09:48:26.001366
+
+[INFO] api_logger: 200 GET /?page=2 (112 ms) | Time Call: 2020-10-14 09:48:55.813748
+
+[INFO] api_logger: 200 GET /?page=2 (112 ms) | Time Call: 2020-10-14 09:48:55.813748
+
+[INFO] api_logger: 200 GET /?page=2 (112 ms) | Time Call: 2020-10-14 09:48:55.813748
+
+[INFO] api_logger: 200 GET /?page=2 (112 ms) | Time Call: 2020-10-14 09:48:55.813748
+
+[INFO] api_logger: 200 GET /?page=2 (112 ms) | Time Call: 2020-10-14 09:48:55.813748
+
+[INFO] api_logger: 200 GET /?page=1 (48 ms) | Time Call: 2020-10-14 09:57:47.377135
+
+[INFO] api_logger: 200 GET /?page=1 (48 ms) | Time Call: 2020-10-14 09:57:47.377135
+
+[INFO] api_logger: 200 GET /?page=1 (48 ms) | Time Call: 2020-10-14 09:57:47.377135
+
+[INFO] api_logger: 200 GET /?page=1 (48 ms) | Time Call: 2020-10-14 09:57:47.377135
+
+[INFO] api_logger: 200 GET /?page=1 (48 ms) | Time Call: 2020-10-14 09:57:47.377135
+
+[INFO] api_logger: 200 GET /?page=1 (10 ms) | Time Call: 2020-10-14 09:58:33.479593
+
+[INFO] api_logger: 200 GET /?page=1 (10 ms) | Time Call: 2020-10-14 09:58:33.479593
+
+[INFO] api_logger: 200 GET /?page=1 (10 ms) | Time Call: 2020-10-14 09:58:33.479593
+
+[INFO] api_logger: 200 GET /?page=1 (10 ms) | Time Call: 2020-10-14 09:58:33.479593
+
+[INFO] api_logger: 200 GET /?page=1 (10 ms) | Time Call: 2020-10-14 09:58:33.479593
+
+[INFO] api_logger: 200 GET /?page=1 (151 ms) | Time Call: 2020-10-14 10:21:17.189667
+
+[INFO] api_logger: 200 GET /?page=1 (151 ms) | Time Call: 2020-10-14 10:21:17.189667
+
+[INFO] api_logger: 200 GET /?page=1 (151 ms) | Time Call: 2020-10-14 10:21:17.189667
+
+[INFO] api_logger: 200 GET /?page=1 (151 ms) | Time Call: 2020-10-14 10:21:17.189667
+
+[INFO] api_logger: 200 GET /?page=1 (151 ms) | Time Call: 2020-10-14 10:21:17.189667
+
+[INFO] api_logger: 200 GET /?page=1 (73 ms) | Time Call: 2020-10-14 10:22:24.063107
+
+[INFO] api_logger: 200 GET /?page=1 (73 ms) | Time Call: 2020-10-14 10:22:24.063107
+
+[INFO] api_logger: 200 GET /?page=1 (73 ms) | Time Call: 2020-10-14 10:22:24.063107
+
+[INFO] api_logger: 200 GET /?page=1 (73 ms) | Time Call: 2020-10-14 10:22:24.063107
+
+[INFO] api_logger: 200 GET /?page=1 (73 ms) | Time Call: 2020-10-14 10:22:24.063107
+
+[INFO] api_logger: 200 GET /?page=1 (57 ms) | Time Call: 2020-10-14 10:35:16.320058
+
+[INFO] api_logger: 200 GET /?page=1 (57 ms) | Time Call: 2020-10-14 10:35:16.320058
+
+[INFO] api_logger: 200 GET /?page=1 (57 ms) | Time Call: 2020-10-14 10:35:16.320058
+
+[INFO] api_logger: 200 GET /?page=1 (57 ms) | Time Call: 2020-10-14 10:35:16.320058
+
+[INFO] api_logger: 200 GET /?page=1 (57 ms) | Time Call: 2020-10-14 10:35:16.320058
+
+[INFO] api_logger: 200 GET /?page=1 (37 ms) | Time Call: 2020-10-14 10:50:47.697187
+
+[INFO] api_logger: 200 GET /?page=1 (37 ms) | Time Call: 2020-10-14 10:50:47.697187
+
+[INFO] api_logger: 200 GET /?page=1 (37 ms) | Time Call: 2020-10-14 10:50:47.697187
+
+[INFO] api_logger: 200 GET /?page=1 (37 ms) | Time Call: 2020-10-14 10:50:47.697187
+
+[INFO] api_logger: 200 GET /?page=1 (37 ms) | Time Call: 2020-10-14 10:50:47.697187
+
+[INFO] api_logger: 200 GET /?page=1 (43 ms) | Time Call: 2020-10-14 10:52:52.874322
+
+[INFO] api_logger: 200 GET /?page=1 (43 ms) | Time Call: 2020-10-14 10:52:52.874322
+
+[INFO] api_logger: 200 GET /?page=1 (43 ms) | Time Call: 2020-10-14 10:52:52.874322
+
+[INFO] api_logger: 200 GET /?page=1 (43 ms) | Time Call: 2020-10-14 10:52:52.874322
+
+[INFO] api_logger: 200 GET /?page=1 (43 ms) | Time Call: 2020-10-14 10:52:52.874322
+
+[INFO] api_logger: 200 GET /?page=1 (26 ms) | Time Call: 2020-10-14 10:53:21.190330
+
+[INFO] api_logger: 200 GET /?page=1 (26 ms) | Time Call: 2020-10-14 10:53:21.190330
+
+[INFO] api_logger: 200 GET /?page=1 (26 ms) | Time Call: 2020-10-14 10:53:21.190330
+
+[INFO] api_logger: 200 GET /?page=1 (26 ms) | Time Call: 2020-10-14 10:53:21.190330
+
+[INFO] api_logger: 200 GET /?page=1 (26 ms) | Time Call: 2020-10-14 10:53:21.190330
+
+[INFO] api_logger: 200 GET /?page=1 (13 ms) | Time Call: 2020-10-14 10:57:52.199219
+
+[INFO] api_logger: 200 GET /?page=1 (13 ms) | Time Call: 2020-10-14 10:57:52.199219
+
+[INFO] api_logger: 200 GET /?page=1 (13 ms) | Time Call: 2020-10-14 10:57:52.199219
+
+[INFO] api_logger: 200 GET /?page=1 (13 ms) | Time Call: 2020-10-14 10:57:52.199219
+
+[INFO] api_logger: 200 GET /?page=1 (13 ms) | Time Call: 2020-10-14 10:57:52.199219
+
+[INFO] api_logger: 200 GET /?page=1 (179 ms) | Time Call: 2020-10-14 11:25:08.712118
+
+[INFO] api_logger: 200 GET /?page=1 (179 ms) | Time Call: 2020-10-14 11:25:08.712118
+
+[INFO] api_logger: 200 GET /?page=1 (179 ms) | Time Call: 2020-10-14 11:25:08.712118
+
+[INFO] api_logger: 200 GET /?page=1 (179 ms) | Time Call: 2020-10-14 11:25:08.712118
+
+[INFO] api_logger: 200 GET /?page=1 (179 ms) | Time Call: 2020-10-14 11:25:08.712118
+
+[INFO] api_logger: 200 GET /?page=1 (9 ms) | Time Call: 2020-10-14 11:31:30.491490
+
+[INFO] api_logger: 200 GET /?page=1 (9 ms) | Time Call: 2020-10-14 11:31:30.491490
+
+[INFO] api_logger: 200 GET /?page=1 (9 ms) | Time Call: 2020-10-14 11:31:30.491490
+
+[INFO] api_logger: 200 GET /?page=1 (9 ms) | Time Call: 2020-10-14 11:31:30.491490
+
+[INFO] api_logger: 200 GET /?page=1 (9 ms) | Time Call: 2020-10-14 11:31:30.491490
+
+[INFO] api_logger: 200 GET /?page=1 (26 ms) | Time Call: 2020-10-14 11:32:28.822565
+
+[INFO] api_logger: 200 GET /?page=1 (26 ms) | Time Call: 2020-10-14 11:32:28.822565
+
+[INFO] api_logger: 200 GET /?page=1 (26 ms) | Time Call: 2020-10-14 11:32:28.822565
+
+[INFO] api_logger: 200 GET /?page=1 (26 ms) | Time Call: 2020-10-14 11:32:28.822565
+
+[INFO] api_logger: 200 GET /?page=1 (26 ms) | Time Call: 2020-10-14 11:32:28.822565
+
+[INFO] api_logger: 200 POST /login (1242 ms) | Time Call: 2020-10-14 12:00:43.183333
+
+[INFO] api_logger: 200 POST /login (1242 ms) | Time Call: 2020-10-14 12:00:43.183333
+
+[INFO] api_logger: 200 POST /login (1242 ms) | Time Call: 2020-10-14 12:00:43.183333
+
+[INFO] api_logger: 200 POST /login (1242 ms) | Time Call: 2020-10-14 12:00:43.183333
+
+[INFO] api_logger: 200 POST /login (1242 ms) | Time Call: 2020-10-14 12:00:43.183333
+
+[INFO] api_logger: 200 POST /login (502 ms) | Time Call: 2020-10-14 15:42:25.004824
+
+[INFO] api_logger: 200 POST /login (502 ms) | Time Call: 2020-10-14 15:42:25.004824
+
+[INFO] api_logger: 200 POST /login (502 ms) | Time Call: 2020-10-14 15:42:25.004824
+
+[INFO] api_logger: 200 POST /login (502 ms) | Time Call: 2020-10-14 15:42:25.004824
+
+[INFO] api_logger: 200 POST /login (502 ms) | Time Call: 2020-10-14 15:42:25.004824
+
+[INFO] api_logger: 200 GET /?page=1 (2325 ms) | Time Call: 2020-10-14 15:42:46.027290
+
+[INFO] api_logger: 200 GET /?page=1 (2325 ms) | Time Call: 2020-10-14 15:42:46.027290
+
+[INFO] api_logger: 200 GET /?page=1 (2325 ms) | Time Call: 2020-10-14 15:42:46.027290
+
+[INFO] api_logger: 200 GET /?page=1 (2325 ms) | Time Call: 2020-10-14 15:42:46.027290
+
+[INFO] api_logger: 200 GET /?page=1 (2325 ms) | Time Call: 2020-10-14 15:42:46.027290
+
+[INFO] api_logger: 200 GET /?page=1 (475 ms) | Time Call: 2020-10-14 15:48:24.481328
+
+[INFO] api_logger: 200 GET /?page=1 (475 ms) | Time Call: 2020-10-14 15:48:24.481328
+
+[INFO] api_logger: 200 GET /?page=1 (475 ms) | Time Call: 2020-10-14 15:48:24.481328
+
+[INFO] api_logger: 200 GET /?page=1 (475 ms) | Time Call: 2020-10-14 15:48:24.481328
+
+[INFO] api_logger: 200 GET /?page=1 (475 ms) | Time Call: 2020-10-14 15:48:24.481328
+
+[INFO] api_logger: 200 POST /login (722 ms) | Time Call: 2020-10-14 15:55:32.808313
+
+[INFO] api_logger: 200 POST /login (722 ms) | Time Call: 2020-10-14 15:55:32.808313
+
+[INFO] api_logger: 200 POST /login (722 ms) | Time Call: 2020-10-14 15:55:32.808313
+
+[INFO] api_logger: 200 POST /login (722 ms) | Time Call: 2020-10-14 15:55:32.808313
+
+[INFO] api_logger: 200 POST /login (722 ms) | Time Call: 2020-10-14 15:55:32.808313
+
+[INFO] api_logger: 200 GET /?page=1 (330 ms) | Time Call: 2020-10-14 15:55:36.368134
+
+[INFO] api_logger: 200 GET /?page=1 (330 ms) | Time Call: 2020-10-14 15:55:36.368134
+
+[INFO] api_logger: 200 GET /?page=1 (330 ms) | Time Call: 2020-10-14 15:55:36.368134
+
+[INFO] api_logger: 200 GET /?page=1 (330 ms) | Time Call: 2020-10-14 15:55:36.368134
+
+[INFO] api_logger: 200 GET /?page=1 (330 ms) | Time Call: 2020-10-14 15:55:36.368134
+
+[INFO] api_logger: 200 POST /login (7 ms) | Time Call: 2020-10-14 16:00:56.353589
+
+[INFO] api_logger: 200 POST /login (7 ms) | Time Call: 2020-10-14 16:00:56.353589
+
+[INFO] api_logger: 200 POST /login (7 ms) | Time Call: 2020-10-14 16:00:56.353589
+
+[INFO] api_logger: 200 POST /login (7 ms) | Time Call: 2020-10-14 16:00:56.353589
+
+[INFO] api_logger: 200 POST /login (7 ms) | Time Call: 2020-10-14 16:00:56.353589
+
+[INFO] api_logger: 200 GET /?page=1 (8 ms) | Time Call: 2020-10-14 16:00:59.123795
+
+[INFO] api_logger: 200 GET /?page=1 (8 ms) | Time Call: 2020-10-14 16:00:59.123795
+
+[INFO] api_logger: 200 GET /?page=1 (8 ms) | Time Call: 2020-10-14 16:00:59.123795
+
+[INFO] api_logger: 200 GET /?page=1 (8 ms) | Time Call: 2020-10-14 16:00:59.123795
+
+[INFO] api_logger: 200 GET /?page=1 (8 ms) | Time Call: 2020-10-14 16:00:59.123795
+
+[INFO] api_logger: 200 POST /login (160 ms) | Time Call: 2020-10-14 16:11:05.526599
+
+[INFO] api_logger: 200 POST /login (160 ms) | Time Call: 2020-10-14 16:11:05.526599
+
+[INFO] api_logger: 200 POST /login (160 ms) | Time Call: 2020-10-14 16:11:05.526599
+
+[INFO] api_logger: 200 POST /login (160 ms) | Time Call: 2020-10-14 16:11:05.526599
+
+[INFO] api_logger: 200 POST /login (160 ms) | Time Call: 2020-10-14 16:11:05.526599
+
+[INFO] api_logger: 200 GET /?page=1 (41 ms) | Time Call: 2020-10-14 16:11:10.339387
+
+[INFO] api_logger: 200 GET /?page=1 (41 ms) | Time Call: 2020-10-14 16:11:10.339387
+
+[INFO] api_logger: 200 GET /?page=1 (41 ms) | Time Call: 2020-10-14 16:11:10.339387
+
+[INFO] api_logger: 200 GET /?page=1 (41 ms) | Time Call: 2020-10-14 16:11:10.339387
+
+[INFO] api_logger: 200 GET /?page=1 (41 ms) | Time Call: 2020-10-14 16:11:10.339387
+
+[INFO] api_logger: 200 POST /login (21 ms) | Time Call: 2020-10-14 16:16:31.046508
+
+[INFO] api_logger: 200 POST /login (21 ms) | Time Call: 2020-10-14 16:16:31.046508
+
+[INFO] api_logger: 200 POST /login (21 ms) | Time Call: 2020-10-14 16:16:31.046508
+
+[INFO] api_logger: 200 POST /login (21 ms) | Time Call: 2020-10-14 16:16:31.046508
+
+[INFO] api_logger: 200 POST /login (21 ms) | Time Call: 2020-10-14 16:16:31.046508
+
+[INFO] api_logger: 200 GET /?page=1 (10 ms) | Time Call: 2020-10-14 16:16:33.009865
+
+[INFO] api_logger: 200 GET /?page=1 (10 ms) | Time Call: 2020-10-14 16:16:33.009865
+
+[INFO] api_logger: 200 GET /?page=1 (10 ms) | Time Call: 2020-10-14 16:16:33.009865
+
+[INFO] api_logger: 200 GET /?page=1 (10 ms) | Time Call: 2020-10-14 16:16:33.009865
+
+[INFO] api_logger: 200 GET /?page=1 (10 ms) | Time Call: 2020-10-14 16:16:33.009865
+
+[INFO] api_logger: 200 GET /?page=2 (37 ms) | Time Call: 2020-10-14 16:17:17.085496
+
+[INFO] api_logger: 200 GET /?page=2 (37 ms) | Time Call: 2020-10-14 16:17:17.085496
+
+[INFO] api_logger: 200 GET /?page=2 (37 ms) | Time Call: 2020-10-14 16:17:17.085496
+
+[INFO] api_logger: 200 GET /?page=2 (37 ms) | Time Call: 2020-10-14 16:17:17.085496
+
+[INFO] api_logger: 200 GET /?page=2 (37 ms) | Time Call: 2020-10-14 16:17:17.085496
+
+[INFO] api_logger: 200 POST /login (731 ms) | Time Call: 2020-10-14 16:33:48.231195
+
+[INFO] api_logger: 200 POST /login (731 ms) | Time Call: 2020-10-14 16:33:48.231195
+
+[INFO] api_logger: 200 POST /login (731 ms) | Time Call: 2020-10-14 16:33:48.231195
+
+[INFO] api_logger: 200 POST /login (731 ms) | Time Call: 2020-10-14 16:33:48.231195
+
+[INFO] api_logger: 200 POST /login (731 ms) | Time Call: 2020-10-14 16:33:48.231195
+
+[INFO] api_logger: 200 GET /?page=1 (678 ms) | Time Call: 2020-10-14 16:33:54.751460
+
+[INFO] api_logger: 200 GET /?page=1 (678 ms) | Time Call: 2020-10-14 16:33:54.751460
+
+[INFO] api_logger: 200 GET /?page=1 (678 ms) | Time Call: 2020-10-14 16:33:54.751460
+
+[INFO] api_logger: 200 GET /?page=1 (678 ms) | Time Call: 2020-10-14 16:33:54.751460
+
+[INFO] api_logger: 200 GET /?page=1 (678 ms) | Time Call: 2020-10-14 16:33:54.751460
+
+[INFO] api_logger: 200 POST /login (91 ms) | Time Call: 2020-10-14 16:39:15.292969
+
+[INFO] api_logger: 200 POST /login (91 ms) | Time Call: 2020-10-14 16:39:15.292969
+
+[INFO] api_logger: 200 POST /login (91 ms) | Time Call: 2020-10-14 16:39:15.292969
+
+[INFO] api_logger: 200 POST /login (91 ms) | Time Call: 2020-10-14 16:39:15.292969
+
+[INFO] api_logger: 200 POST /login (91 ms) | Time Call: 2020-10-14 16:39:15.292969
+
+[INFO] api_logger: 200 GET /?page=1 (305 ms) | Time Call: 2020-10-14 16:39:21.293290
+
+[INFO] api_logger: 200 GET /?page=1 (305 ms) | Time Call: 2020-10-14 16:39:21.293290
+
+[INFO] api_logger: 200 GET /?page=1 (305 ms) | Time Call: 2020-10-14 16:39:21.293290
+
+[INFO] api_logger: 200 GET /?page=1 (305 ms) | Time Call: 2020-10-14 16:39:21.293290
+
+[INFO] api_logger: 200 GET /?page=1 (305 ms) | Time Call: 2020-10-14 16:39:21.293290
+
+[INFO] api_logger: 200 GET /?page=2 (99 ms) | Time Call: 2020-10-14 16:44:08.442900
+
+[INFO] api_logger: 200 GET /?page=2 (99 ms) | Time Call: 2020-10-14 16:44:08.442900
+
+[INFO] api_logger: 200 GET /?page=2 (99 ms) | Time Call: 2020-10-14 16:44:08.442900
+
+[INFO] api_logger: 200 GET /?page=2 (99 ms) | Time Call: 2020-10-14 16:44:08.442900
+
+[INFO] api_logger: 200 GET /?page=2 (99 ms) | Time Call: 2020-10-14 16:44:08.442900
+
+[INFO] api_logger: 200 GET /?page=1 (77 ms) | Time Call: 2020-10-14 16:44:52.355760
+
+[INFO] api_logger: 200 GET /?page=1 (77 ms) | Time Call: 2020-10-14 16:44:52.355760
+
+[INFO] api_logger: 200 GET /?page=1 (77 ms) | Time Call: 2020-10-14 16:44:52.355760
+
+[INFO] api_logger: 200 GET /?page=1 (77 ms) | Time Call: 2020-10-14 16:44:52.355760
+
+[INFO] api_logger: 200 GET /?page=1 (77 ms) | Time Call: 2020-10-14 16:44:52.355760
+
+[INFO] api_logger: 200 GET /?page=1 (78 ms) | Time Call: 2020-10-14 16:45:58.719357
+
+[INFO] api_logger: 200 GET /?page=1 (78 ms) | Time Call: 2020-10-14 16:45:58.719357
+
+[INFO] api_logger: 200 GET /?page=1 (78 ms) | Time Call: 2020-10-14 16:45:58.719357
+
+[INFO] api_logger: 200 GET /?page=1 (78 ms) | Time Call: 2020-10-14 16:45:58.719357
+
+[INFO] api_logger: 200 GET /?page=1 (78 ms) | Time Call: 2020-10-14 16:45:58.719357
+
+[INFO] api_logger: 200 POST /login (12 ms) | Time Call: 2020-10-14 16:48:35.387644
+
+[INFO] api_logger: 200 POST /login (12 ms) | Time Call: 2020-10-14 16:48:35.387644
+
+[INFO] api_logger: 200 POST /login (12 ms) | Time Call: 2020-10-14 16:48:35.387644
+
+[INFO] api_logger: 200 POST /login (12 ms) | Time Call: 2020-10-14 16:48:35.387644
+
+[INFO] api_logger: 200 POST /login (12 ms) | Time Call: 2020-10-14 16:48:35.387644
+
+[INFO] api_logger: 200 POST /login (13 ms) | Time Call: 2020-10-14 16:52:02.065925
+
+[INFO] api_logger: 200 POST /login (13 ms) | Time Call: 2020-10-14 16:52:02.065925
+
+[INFO] api_logger: 200 POST /login (13 ms) | Time Call: 2020-10-14 16:52:02.065925
+
+[INFO] api_logger: 200 POST /login (13 ms) | Time Call: 2020-10-14 16:52:02.065925
+
+[INFO] api_logger: 200 POST /login (13 ms) | Time Call: 2020-10-14 16:52:02.065925
+
+[INFO] api_logger: 200 GET /?page=1 (52 ms) | Time Call: 2020-10-14 16:52:03.965880
+
+[INFO] api_logger: 200 GET /?page=1 (52 ms) | Time Call: 2020-10-14 16:52:03.965880
+
+[INFO] api_logger: 200 GET /?page=1 (52 ms) | Time Call: 2020-10-14 16:52:03.965880
+
+[INFO] api_logger: 200 GET /?page=1 (52 ms) | Time Call: 2020-10-14 16:52:03.965880
+
+[INFO] api_logger: 200 GET /?page=1 (52 ms) | Time Call: 2020-10-14 16:52:03.965880
+
+[INFO] api_logger: 200 GET /?page=1 (23 ms) | Time Call: 2020-10-14 16:55:05.754666
+
+[INFO] api_logger: 200 GET /?page=1 (23 ms) | Time Call: 2020-10-14 16:55:05.754666
+
+[INFO] api_logger: 200 GET /?page=1 (23 ms) | Time Call: 2020-10-14 16:55:05.754666
+
+[INFO] api_logger: 200 GET /?page=1 (23 ms) | Time Call: 2020-10-14 16:55:05.754666
+
+[INFO] api_logger: 200 GET /?page=1 (23 ms) | Time Call: 2020-10-14 16:55:05.754666
+
+[INFO] api_logger: 200 GET /?page=1 (247 ms) | Time Call: 2020-10-14 16:55:43.859500
+
+[INFO] api_logger: 200 GET /?page=1 (247 ms) | Time Call: 2020-10-14 16:55:43.859500
+
+[INFO] api_logger: 200 GET /?page=1 (247 ms) | Time Call: 2020-10-14 16:55:43.859500
+
+[INFO] api_logger: 200 GET /?page=1 (247 ms) | Time Call: 2020-10-14 16:55:43.859500
+
+[INFO] api_logger: 200 GET /?page=1 (247 ms) | Time Call: 2020-10-14 16:55:43.859500
+
+[INFO] api_logger: 200 GET /?page=1 (216 ms) | Time Call: 2020-10-14 17:05:28.999554
+
+[INFO] api_logger: 200 GET /?page=1 (216 ms) | Time Call: 2020-10-14 17:05:28.999554
+
+[INFO] api_logger: 200 GET /?page=1 (216 ms) | Time Call: 2020-10-14 17:05:28.999554
+
+[INFO] api_logger: 200 GET /?page=1 (216 ms) | Time Call: 2020-10-14 17:05:28.999554
+
+[INFO] api_logger: 200 GET /?page=1 (216 ms) | Time Call: 2020-10-14 17:05:28.999554
+
+[INFO] api_logger: 200 GET /?page=1 (106 ms) | Time Call: 2020-10-14 17:06:09.035481
+
+[INFO] api_logger: 200 GET /?page=1 (106 ms) | Time Call: 2020-10-14 17:06:09.035481
+
+[INFO] api_logger: 200 GET /?page=1 (106 ms) | Time Call: 2020-10-14 17:06:09.035481
+
+[INFO] api_logger: 200 GET /?page=1 (106 ms) | Time Call: 2020-10-14 17:06:09.035481
+
+[INFO] api_logger: 200 GET /?page=1 (106 ms) | Time Call: 2020-10-14 17:06:09.035481
+
+[INFO] api_logger: 200 GET /?page=1 (77 ms) | Time Call: 2020-10-14 17:11:34.582356
+
+[INFO] api_logger: 200 GET /?page=1 (77 ms) | Time Call: 2020-10-14 17:11:34.582356
+
+[INFO] api_logger: 200 GET /?page=1 (77 ms) | Time Call: 2020-10-14 17:11:34.582356
+
+[INFO] api_logger: 200 GET /?page=1 (77 ms) | Time Call: 2020-10-14 17:11:34.582356
+
+[INFO] api_logger: 200 GET /?page=1 (77 ms) | Time Call: 2020-10-14 17:11:34.582356
+
+[INFO] api_logger: 200 GET /?page=1 (94 ms) | Time Call: 2020-10-14 17:15:50.112878
+
+[INFO] api_logger: 200 GET /?page=1 (94 ms) | Time Call: 2020-10-14 17:15:50.112878
+
+[INFO] api_logger: 200 GET /?page=1 (94 ms) | Time Call: 2020-10-14 17:15:50.112878
+
+[INFO] api_logger: 200 GET /?page=1 (94 ms) | Time Call: 2020-10-14 17:15:50.112878
+
+[INFO] api_logger: 200 GET /?page=1 (94 ms) | Time Call: 2020-10-14 17:15:50.112878
+
+[INFO] api_logger: 200 POST /login (223 ms) | Time Call: 2020-10-14 17:28:21.543637
+
+[INFO] api_logger: 200 POST /login (223 ms) | Time Call: 2020-10-14 17:28:21.543637
+
+[INFO] api_logger: 200 POST /login (223 ms) | Time Call: 2020-10-14 17:28:21.543637
+
+[INFO] api_logger: 200 POST /login (223 ms) | Time Call: 2020-10-14 17:28:21.543637
+
+[INFO] api_logger: 200 POST /login (223 ms) | Time Call: 2020-10-14 17:28:21.543637
+
+[INFO] api_logger: 200 GET /?page=1 (153 ms) | Time Call: 2020-10-14 17:28:23.814456
+
+[INFO] api_logger: 200 GET /?page=1 (153 ms) | Time Call: 2020-10-14 17:28:23.814456
+
+[INFO] api_logger: 200 GET /?page=1 (153 ms) | Time Call: 2020-10-14 17:28:23.814456
+
+[INFO] api_logger: 200 GET /?page=1 (153 ms) | Time Call: 2020-10-14 17:28:23.814456
+
+[INFO] api_logger: 200 GET /?page=1 (153 ms) | Time Call: 2020-10-14 17:28:23.814456
+
+[INFO] api_logger: 200 GET /?page=1 (90 ms) | Time Call: 2020-10-14 17:28:35.267709
+
+[INFO] api_logger: 200 GET /?page=1 (90 ms) | Time Call: 2020-10-14 17:28:35.267709
+
+[INFO] api_logger: 200 GET /?page=1 (90 ms) | Time Call: 2020-10-14 17:28:35.267709
+
+[INFO] api_logger: 200 GET /?page=1 (90 ms) | Time Call: 2020-10-14 17:28:35.267709
+
+[INFO] api_logger: 200 GET /?page=1 (90 ms) | Time Call: 2020-10-14 17:28:35.267709
+
+[INFO] api_logger: 200 GET /?page=1 (190 ms) | Time Call: 2020-10-14 17:31:22.201213
+
+[INFO] api_logger: 200 GET /?page=1 (190 ms) | Time Call: 2020-10-14 17:31:22.201213
+
+[INFO] api_logger: 200 GET /?page=1 (190 ms) | Time Call: 2020-10-14 17:31:22.201213
+
+[INFO] api_logger: 200 GET /?page=1 (190 ms) | Time Call: 2020-10-14 17:31:22.201213
+
+[INFO] api_logger: 200 GET /?page=1 (190 ms) | Time Call: 2020-10-14 17:31:22.201213
+
+[INFO] api_logger: 200 POST /login (899 ms) | Time Call: 2020-10-16 15:33:20.677780
+
+[INFO] api_logger: 200 GET /?page=1 (1316 ms) | Time Call: 2020-10-16 15:33:28.342342
+
+[INFO] api_logger: 200 POST /login (2954 ms) | Time Call: 2020-10-19 17:28:48.473833
+
+[INFO] api_logger: 401 POST /login (275 ms) | Time Call: 2020-10-20 09:00:33.358453
+
+[INFO] api_logger: 401 POST /login (44 ms) | Time Call: 2020-10-20 09:00:45.946874
+
+[INFO] api_logger: 401 POST /login (73 ms) | Time Call: 2020-10-20 09:01:00.811230
+
+[INFO] api_logger: 401 POST /login (4 ms) | Time Call: 2020-10-20 09:01:14.461280
+
+[INFO] api_logger: 401 POST /login (9 ms) | Time Call: 2020-10-20 09:01:36.868403
+
+[INFO] api_logger: 401 POST /login (85 ms) | Time Call: 2020-10-20 09:01:50.360628
+
+[INFO] api_logger: 200 POST /login (372 ms) | Time Call: 2020-10-20 09:04:06.229830
+
+[INFO] api_logger: 200 POST /login (483 ms) | Time Call: 2020-10-20 09:57:22.135289
+
+[INFO] api_logger: 200 POST /login (1033 ms) | Time Call: 2020-10-20 10:25:11.541458
+
+[INFO] api_logger: 200 POST /login (2413 ms) | Time Call: 2020-10-23 17:47:05.598467
+
+[INFO] api_logger: 200 POST /login (277 ms) | Time Call: 2020-10-23 17:47:18.056886
+
+[INFO] api_logger: 401 POST /login (6 ms) | Time Call: 2020-10-23 17:47:21.174009
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-23 17:48:50.033795
+
+[INFO] api_logger: 200 POST /login (310 ms) | Time Call: 2020-10-23 17:49:06.110129
+
+[INFO] api_logger: 200 POST /login (310 ms) | Time Call: 2020-10-23 17:49:06.110129
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-23 17:50:22.901199
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-23 17:50:22.901199
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-23 17:51:22.225239
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-23 17:51:22.225239
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-23 17:51:22.225239
+
+[INFO] api_logger: 200 POST /login (326 ms) | Time Call: 2020-10-23 17:51:44.018786
+
+[INFO] api_logger: 200 POST /login (326 ms) | Time Call: 2020-10-23 17:51:44.018786
+
+[INFO] api_logger: 200 POST /login (326 ms) | Time Call: 2020-10-23 17:51:44.018786
+
+[INFO] api_logger: 200 POST /login (326 ms) | Time Call: 2020-10-23 17:51:44.018786
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:01:05.372880
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:01:05.372880
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:01:05.372880
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:01:05.372880
+
+[INFO] api_logger: 200 POST /login (793 ms) | Time Call: 2020-10-27 09:02:04.285884
+
+[INFO] api_logger: 200 POST /login (793 ms) | Time Call: 2020-10-27 09:02:04.285884
+
+[INFO] api_logger: 200 POST /login (793 ms) | Time Call: 2020-10-27 09:02:04.285884
+
+[INFO] api_logger: 200 POST /login (793 ms) | Time Call: 2020-10-27 09:02:04.285884
+
+[INFO] api_logger: 200 POST /login (793 ms) | Time Call: 2020-10-27 09:02:04.285884
+
+[INFO] api_logger: 200 POST /login (793 ms) | Time Call: 2020-10-27 09:02:04.285884
+
+[INFO] api_logger: 200 POST /login (419 ms) | Time Call: 2020-10-27 09:14:44.517644
+
+[INFO] api_logger: 200 POST /login (419 ms) | Time Call: 2020-10-27 09:14:44.517644
+
+[INFO] api_logger: 200 POST /login (419 ms) | Time Call: 2020-10-27 09:14:44.517644
+
+[INFO] api_logger: 200 POST /login (419 ms) | Time Call: 2020-10-27 09:14:44.517644
+
+[INFO] api_logger: 200 POST /login (419 ms) | Time Call: 2020-10-27 09:14:44.517644
+
+[INFO] api_logger: 200 POST /login (419 ms) | Time Call: 2020-10-27 09:14:44.517644
+
+[INFO] api_logger: 200 POST /login (927 ms) | Time Call: 2020-10-27 09:17:33.047551
+
+[INFO] api_logger: 200 POST /login (927 ms) | Time Call: 2020-10-27 09:17:33.047551
+
+[INFO] api_logger: 200 POST /login (927 ms) | Time Call: 2020-10-27 09:17:33.047551
+
+[INFO] api_logger: 200 POST /login (927 ms) | Time Call: 2020-10-27 09:17:33.047551
+
+[INFO] api_logger: 200 POST /login (927 ms) | Time Call: 2020-10-27 09:17:33.047551
+
+[INFO] api_logger: 200 POST /login (927 ms) | Time Call: 2020-10-27 09:17:33.047551
+
+[INFO] api_logger: 200 POST /login (118579 ms) | Time Call: 2020-10-27 09:21:53.471867
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:22:12.313118
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:24:24.275021
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:24:24.275021
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:25:12.557307
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:25:12.557307
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:25:12.557307
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:26:13.035869
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:26:13.035869
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:26:13.035869
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:26:13.035869
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:27:14.028904
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:27:14.028904
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:27:14.028904
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:27:14.028904
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:27:14.028904
+
+[INFO] api_logger: 200 POST /login (381 ms) | Time Call: 2020-10-27 09:28:16.161504
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:29:07.218277
+
+[INFO] api_logger: 200 POST /login (271 ms) | Time Call: 2020-10-27 09:29:19.887962
+
+[INFO] api_logger: 200 POST /login (271 ms) | Time Call: 2020-10-27 09:29:19.887962
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:32:01.046927
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:32:01.046927
+
+[INFO] api_logger: 200 POST /login (266 ms) | Time Call: 2020-10-27 09:32:11.905663
+
+[INFO] api_logger: 200 POST /login (266 ms) | Time Call: 2020-10-27 09:32:11.905663
+
+[INFO] api_logger: 200 POST /login (266 ms) | Time Call: 2020-10-27 09:32:11.905663
+
+[INFO] api_logger: 200 POST /login (243 ms) | Time Call: 2020-10-27 09:32:32.705685
+
+[INFO] api_logger: 200 POST /login (243 ms) | Time Call: 2020-10-27 09:32:32.705685
+
+[INFO] api_logger: 200 POST /login (243 ms) | Time Call: 2020-10-27 09:32:32.705685
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:33:15.553989
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:33:15.553989
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:33:15.553989
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:33:33.240266
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:33:33.240266
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:33:33.240266
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:33:33.240266
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:16.552534
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:16.552534
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:16.552534
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:16.552534
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:16.552534
+
+[INFO] api_logger: 200 POST /login (28 ms) | Time Call: 2020-10-27 09:34:29.161853
+
+[INFO] api_logger: 200 POST /login (28 ms) | Time Call: 2020-10-27 09:34:29.161853
+
+[INFO] api_logger: 200 POST /login (28 ms) | Time Call: 2020-10-27 09:34:29.161853
+
+[INFO] api_logger: 200 POST /login (28 ms) | Time Call: 2020-10-27 09:34:29.161853
+
+[INFO] api_logger: 200 POST /login (28 ms) | Time Call: 2020-10-27 09:34:29.161853
+
+[INFO] api_logger: 200 POST /login (28 ms) | Time Call: 2020-10-27 09:34:29.161853
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:55.874224
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:55.874224
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:55.874224
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:55.874224
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:55.874224
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:34:55.874224
+
+[INFO] api_logger: 200 POST /login (1447 ms) | Time Call: 2020-10-27 09:45:23.650200
+
+[INFO] api_logger: 200 POST /login (1447 ms) | Time Call: 2020-10-27 09:45:23.650200
+
+[INFO] api_logger: 200 POST /login (1447 ms) | Time Call: 2020-10-27 09:45:23.650200
+
+[INFO] api_logger: 200 POST /login (1447 ms) | Time Call: 2020-10-27 09:45:23.650200
+
+[INFO] api_logger: 200 POST /login (1447 ms) | Time Call: 2020-10-27 09:45:23.650200
+
+[INFO] api_logger: 200 POST /login (1447 ms) | Time Call: 2020-10-27 09:45:23.650200
+
+[INFO] api_logger: 200 POST /login (1447 ms) | Time Call: 2020-10-27 09:45:23.650200
+
+[INFO] api_logger: 200 POST /login (83 ms) | Time Call: 2020-10-27 09:50:45.127075
+
+[INFO] api_logger: 200 POST /login (83 ms) | Time Call: 2020-10-27 09:50:45.127075
+
+[INFO] api_logger: 200 POST /login (83 ms) | Time Call: 2020-10-27 09:50:45.127075
+
+[INFO] api_logger: 200 POST /login (83 ms) | Time Call: 2020-10-27 09:50:45.127075
+
+[INFO] api_logger: 200 POST /login (83 ms) | Time Call: 2020-10-27 09:50:45.127075
+
+[INFO] api_logger: 200 POST /login (83 ms) | Time Call: 2020-10-27 09:50:45.127075
+
+[INFO] api_logger: 200 POST /login (83 ms) | Time Call: 2020-10-27 09:50:45.127075
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:53:38.184327
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:53:38.184327
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:53:38.184327
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:53:38.184327
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:53:38.184327
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:53:38.184327
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 09:53:38.184327
+
+[INFO] api_logger: 200 POST /login (50 ms) | Time Call: 2020-10-27 09:55:01.550744
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 10:04:36.221131
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 10:06:09.923170
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-27 10:06:09.923170
+
+[INFO] api_logger: 200 POST /login (28 ms) | Time Call: 2020-10-27 10:06:52.483447
+
+[INFO] api_logger: 200 POST /login (28 ms) | Time Call: 2020-10-27 10:06:52.483447
+
+[INFO] api_logger: 200 POST /login (28 ms) | Time Call: 2020-10-27 10:06:52.483447
+
+[INFO] api_logger: 200 POST /login (794 ms) | Time Call: 2020-10-27 11:57:20.171670
+
+[INFO] api_logger: 200 POST /login (794 ms) | Time Call: 2020-10-27 11:57:20.171670
+
+[INFO] api_logger: 200 POST /login (794 ms) | Time Call: 2020-10-27 11:57:20.171670
+
+[INFO] api_logger: 200 POST /login (80 ms) | Time Call: 2020-10-27 11:57:46.551632
+
+[INFO] api_logger: 200 POST /login (80 ms) | Time Call: 2020-10-27 11:57:46.551632
+
+[INFO] api_logger: 200 POST /login (80 ms) | Time Call: 2020-10-27 11:57:46.551632
+
+[INFO] api_logger: 200 POST /login (63 ms) | Time Call: 2020-10-27 11:58:19.854611
+
+[INFO] api_logger: 200 POST /login (63 ms) | Time Call: 2020-10-27 11:58:19.854611
+
+[INFO] api_logger: 200 POST /login (63 ms) | Time Call: 2020-10-27 11:58:19.854611
+
+[INFO] api_logger: 200 POST /login (36 ms) | Time Call: 2020-10-27 11:59:33.344806
+
+[INFO] api_logger: 200 POST /login (36 ms) | Time Call: 2020-10-27 11:59:33.344806
+
+[INFO] api_logger: 200 POST /login (36 ms) | Time Call: 2020-10-27 11:59:33.344806
+
+[INFO] api_logger: 200 POST /login (674 ms) | Time Call: 2020-10-29 15:48:19.728418
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-29 16:18:43.295349
+
+[INFO] api_logger: 200 POST /login (1225 ms) | Time Call: 2020-10-29 16:35:29.694641
+
+[INFO] api_logger: 200 POST /login (1225 ms) | Time Call: 2020-10-29 16:35:29.694641
+
+[INFO] api_logger: 200 POST /login (695 ms) | Time Call: 2020-10-29 16:46:01.377609
+
+[INFO] api_logger: 200 POST /login (695 ms) | Time Call: 2020-10-29 16:46:01.377609
+
+[INFO] api_logger: 200 POST /login (992 ms) | Time Call: 2020-10-29 17:02:00.792344
+
+[INFO] api_logger: 200 POST /login (992 ms) | Time Call: 2020-10-29 17:02:00.792344
+
+[INFO] api_logger: 200 GET /?page=1 (1240 ms) | Time Call: 2020-10-29 17:05:11.229597
+
+[INFO] api_logger: 200 GET /?page=1 (1240 ms) | Time Call: 2020-10-29 17:05:11.229597
+
+[INFO] api_logger: 200 GET /?page=1 (1025 ms) | Time Call: 2020-10-29 17:43:32.791029
+
+[INFO] api_logger: 200 GET /?page=1 (1025 ms) | Time Call: 2020-10-29 17:43:32.791029
+
+[INFO] api_logger: 200 GET /?page=1 (234 ms) | Time Call: 2020-10-29 17:43:36.147264
+
+[INFO] api_logger: 200 GET /?page=1 (234 ms) | Time Call: 2020-10-29 17:43:36.147264
+
+[INFO] api_logger: 200 POST /login (219 ms) | Time Call: 2020-10-29 17:44:04.965213
+
+[INFO] api_logger: 200 POST /login (219 ms) | Time Call: 2020-10-29 17:44:04.965213
+
+[INFO] api_logger: 200 GET /?page=1 (49 ms) | Time Call: 2020-10-29 17:44:21.436404
+
+[INFO] api_logger: 200 GET /?page=1 (49 ms) | Time Call: 2020-10-29 17:44:21.436404
+
+[INFO] api_logger: 200 GET /?page=1 (17 ms) | Time Call: 2020-10-29 17:45:22.779670
+
+[INFO] api_logger: 200 GET /?page=1 (17 ms) | Time Call: 2020-10-29 17:45:22.779670
+
+[INFO] api_logger: 200 GET /?page=1 (98 ms) | Time Call: 2020-10-29 17:45:28.636648
+
+[INFO] api_logger: 200 GET /?page=1 (98 ms) | Time Call: 2020-10-29 17:45:28.636648
+
+[INFO] api_logger: 200 POST /login (1093 ms) | Time Call: 2020-10-30 09:10:53.838488
+
+[INFO] api_logger: 200 POST /login (1093 ms) | Time Call: 2020-10-30 09:10:53.838488
+
+[INFO] api_logger: 200 POST /login (1061 ms) | Time Call: 2020-10-30 16:40:47.223386
+
+[INFO] api_logger: 200 POST /login (1061 ms) | Time Call: 2020-10-30 16:40:47.223386
+
+[INFO] api_logger: {publish_date: 2020-11-10, title: dasdasd, slug: 33232323323232, content: asdasd, email: dasnda@dfdf, password: 123445} | Time Call: 2020-10-30 16:43:24.467283
+
+[INFO] api_logger: {publish_date: 2020-11-10, title: dasdasd, slug: 33232323323232, content: asdasd, email: dasnda@dfdf, password: 123445} | Time Call: 2020-10-30 16:43:24.467283
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 16:43:24.884481
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 16:43:24.884481
+
+[INFO] api_logger: success | Time Call: 2020-10-30 16:43:25.375263
+
+[INFO] api_logger: success | Time Call: 2020-10-30 16:43:25.375263
+
+[INFO] api_logger: 200 POST /new (2179 ms) | Time Call: 2020-10-30 16:43:25.380244
+
+[INFO] api_logger: 200 POST /new (2179 ms) | Time Call: 2020-10-30 16:43:25.380244
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 16:43:25.606416
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 16:43:25.606416
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 16:43:25.695163
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 16:43:25.695163
+
+[INFO] api_logger: 200 POST /login (50 ms) | Time Call: 2020-10-30 16:44:50.582172
+
+[INFO] api_logger: 200 POST /login (50 ms) | Time Call: 2020-10-30 16:44:50.582172
+
+[INFO] api_logger: 200 GET /?page=1 (1182 ms) | Time Call: 2020-10-30 16:45:15.158657
+
+[INFO] api_logger: 200 GET /?page=1 (1182 ms) | Time Call: 2020-10-30 16:45:15.158657
+
+[INFO] api_logger: 200 GET /?page=1 (210 ms) | Time Call: 2020-10-30 16:45:23.194917
+
+[INFO] api_logger: 200 GET /?page=1 (210 ms) | Time Call: 2020-10-30 16:45:23.194917
+
+[INFO] api_logger: 200 GET /?page=1 (133 ms) | Time Call: 2020-10-30 16:45:28.309521
+
+[INFO] api_logger: 200 GET /?page=1 (133 ms) | Time Call: 2020-10-30 16:45:28.309521
+
+[INFO] api_logger: 200 GET /?page=1 (15 ms) | Time Call: 2020-10-30 16:45:41.261623
+
+[INFO] api_logger: 200 GET /?page=1 (15 ms) | Time Call: 2020-10-30 16:45:41.261623
+
+[INFO] api_logger: 200 GET /?page=1 (33 ms) | Time Call: 2020-10-30 16:47:26.343494
+
+[INFO] api_logger: 200 GET /?page=1 (33 ms) | Time Call: 2020-10-30 16:47:26.343494
+
+[INFO] api_logger: {publish_date: 2020-10-14, title: asdfd, slug: 123456789, content: asdsdww, email: test@, password: 123456} | Time Call: 2020-10-30 16:57:08.149478
+
+[INFO] api_logger: {publish_date: 2020-10-14, title: asdfd, slug: 123456789, content: asdsdww, email: test@, password: 123456} | Time Call: 2020-10-30 16:57:08.149478
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 16:57:08.162443
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 16:57:08.162443
+
+[INFO] api_logger: success | Time Call: 2020-10-30 16:57:08.166433
+
+[INFO] api_logger: success | Time Call: 2020-10-30 16:57:08.166433
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-30 16:57:08.168425
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-30 16:57:08.168425
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 16:57:08.170421
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 16:57:08.170421
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 16:57:08.176407
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 16:57:08.176407
+
+[INFO] api_logger: {publish_date: 2020-10-20, title: asdwe, slug: 1234567, content: asdasd, email: test2@, password: 123456} | Time Call: 2020-10-30 17:01:57.581199
+
+[INFO] api_logger: {publish_date: 2020-10-20, title: asdwe, slug: 1234567, content: asdasd, email: test2@, password: 123456} | Time Call: 2020-10-30 17:01:57.581199
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:01:57.584194
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:01:57.584194
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:01:57.586186
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:01:57.586186
+
+[INFO] api_logger: 200 POST /new (14 ms) | Time Call: 2020-10-30 17:01:57.588181
+
+[INFO] api_logger: 200 POST /new (14 ms) | Time Call: 2020-10-30 17:01:57.588181
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:01:57.590211
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:01:57.590211
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:01:57.592172
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:01:57.592172
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: nguyen97fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:09:47.043093
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: nguyen97fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:09:47.043093
+
+[INFO] api_logger: [{created_at: 2020-10-09T13:36:33.322235, updated_at: 2020-10-09T13:36:33.322235, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: nguyen97fa@gmail.com, password: testne, publish_date: 2020-10-22 00:00:00.000, id: 5f8004f1cb69ab918e95d36b}] | Time Call: 2020-10-30 17:09:47.204634
+
+[INFO] api_logger: [{created_at: 2020-10-09T13:36:33.322235, updated_at: 2020-10-09T13:36:33.322235, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: nguyen97fa@gmail.com, password: testne, publish_date: 2020-10-22 00:00:00.000, id: 5f8004f1cb69ab918e95d36b}] | Time Call: 2020-10-30 17:09:47.204634
+
+[INFO] api_logger: 401 POST /new (720 ms) | Time Call: 2020-10-30 17:09:47.315809
+
+[INFO] api_logger: 401 POST /new (720 ms) | Time Call: 2020-10-30 17:09:47.315809
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: nguyen99fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:09:52.407355
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: nguyen99fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:09:52.407355
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:09:52.458184
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:09:52.458184
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:09:52.460178
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:09:52.460178
+
+[INFO] api_logger: 200 POST /new (54 ms) | Time Call: 2020-10-30 17:09:52.461176
+
+[INFO] api_logger: 200 POST /new (54 ms) | Time Call: 2020-10-30 17:09:52.461176
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:09:52.462174
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:09:52.462174
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:09:52.463171
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:09:52.463171
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-30 17:10:47.922950
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-30 17:10:47.922950
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: nguyen10fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:11:53.935510
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: nguyen10fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:11:53.935510
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: nguyen10fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:11:53.935510
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:11:54.168138
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:11:54.168138
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:11:54.168138
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:11:54.184096
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:11:54.184096
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:11:54.184096
+
+[INFO] api_logger: 200 POST /new (262 ms) | Time Call: 2020-10-30 17:11:54.190080
+
+[INFO] api_logger: 200 POST /new (262 ms) | Time Call: 2020-10-30 17:11:54.190080
+
+[INFO] api_logger: 200 POST /new (262 ms) | Time Call: 2020-10-30 17:11:54.190080
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: , email: nguyen10fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:11:54.200054
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: , email: nguyen10fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:11:54.200054
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: , email: nguyen10fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:11:54.200054
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:11:54.210026
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:11:54.210026
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:11:54.210026
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:11:54.218011
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:11:54.218011
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:11:54.218011
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-30 17:11:54.219999
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-30 17:11:54.219999
+
+[INFO] api_logger: 200 POST /new (20 ms) | Time Call: 2020-10-30 17:11:54.219999
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:11:54.222993
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:11:54.222993
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:11:54.222993
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:11:54.232966
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:11:54.232966
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:11:54.232966
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:11:54.235965
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:11:54.235965
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:11:54.235965
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:11:54.239949
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:11:54.239949
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:11:54.239949
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: , email: nguyen10fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:12:20.257858
+
+[INFO] api_logger: [{created_at: 2020-10-30T17:11:54.173127, updated_at: 2020-10-30T17:11:54.173127, title: banh mi kepasdkkk thit, slug: asdsssd, content: , email: nguyen10fa@gmail.com, password: testne, publish_date: 2020-10-22 00:00:00.000, id: 5f9be6eae952820f12c3f25e}, {created_at: 2020-10-30T17:11:54.215014, updated_at: 2020-10-30T17:11:54.215014, title: lag vc, slug: asdsssd, content: , email: nguyen10fa@gmail.com, password: testne, publish_date: 2020-10-22 00:00:00.000, id: 5f9be6eae952820f12c3f261}] | Time Call: 2020-10-30 17:12:20.296755
+
+[INFO] api_logger: 401 POST /new (63 ms) | Time Call: 2020-10-30 17:12:20.307724
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: , email: nguyen11fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:12:25.262596
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:12:25.266586
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:12:25.300493
+
+[INFO] api_logger: 200 POST /new (40 ms) | Time Call: 2020-10-30 17:12:25.302489
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:12:25.307476
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:12:25.310467
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-30 17:17:07.108560
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: , email: nguyen12fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:17:59.493560
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:17:59.525467
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:17:59.534419
+
+[INFO] api_logger: 200 POST /new (58 ms) | Time Call: 2020-10-30 17:17:59.540400
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:17:59.548379
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:17:59.552372
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-30 17:19:28.962690
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: , email: nguyen13fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:22:02.856997
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: , email: nguyen13fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:22:02.856997
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:22:02.871940
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:22:02.871940
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:24:59.382209
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:24:59.382209
+
+[INFO] api_logger: 200 POST /new (176535 ms) | Time Call: 2020-10-30 17:24:59.386200
+
+[INFO] api_logger: 200 POST /new (176535 ms) | Time Call: 2020-10-30 17:24:59.386200
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:24:59.393182
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:24:59.393182
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:24:59.396196
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:24:59.396196
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: , email: nguyen13fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:25:06.906856
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: , email: nguyen13fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:25:06.906856
+
+[INFO] api_logger: [{created_at: 2020-10-30T17:22:02.872926, updated_at: 2020-10-30T17:22:02.872926, title: lag vc, slug: asdsssd, content: , email: nguyen13fa@gmail.com, password: testne, publish_date: 2020-10-22 00:00:00.000, id: 5f9be9fbe952820f12c3f27b}] | Time Call: 2020-10-30 17:25:36.175204
+
+[INFO] api_logger: [{created_at: 2020-10-30T17:22:02.872926, updated_at: 2020-10-30T17:22:02.872926, title: lag vc, slug: asdsssd, content: , email: nguyen13fa@gmail.com, password: testne, publish_date: 2020-10-22 00:00:00.000, id: 5f9be9fbe952820f12c3f27b}] | Time Call: 2020-10-30 17:25:36.175204
+
+[INFO] api_logger: 401 POST /new (29275 ms) | Time Call: 2020-10-30 17:25:36.182185
+
+[INFO] api_logger: 401 POST /new (29275 ms) | Time Call: 2020-10-30 17:25:36.182185
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: 123, email: nguyen14fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:25:51.503213
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: 123, email: nguyen14fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:25:51.503213
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:26:02.740565
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:26:02.740565
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:26:52.631601
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:26:52.631601
+
+[INFO] api_logger: 200 POST /new (61134 ms) | Time Call: 2020-10-30 17:26:52.638583
+
+[INFO] api_logger: 200 POST /new (61134 ms) | Time Call: 2020-10-30 17:26:52.638583
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:26:52.643570
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:26:52.643570
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:26:52.646561
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:26:52.646561
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-30 17:26:59.349011
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-30 17:26:59.349011
+
+[INFO] api_logger: {publish_date: 2020-10-22, title: lag vc, slug: asdsssd, content: 123, email: nguyen14fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:29:32.229632
+
+[INFO] api_logger: [{created_at: 2020-10-30T17:26:02.742560, updated_at: 2020-10-30T17:26:02.742560, title: lag vc, slug: asdsssd, content: 123, email: nguyen14fa@gmail.com, password: testne, publish_date: 2020-10-22 00:00:00.000, id: 5f9bea6ce952820f12c3f27e}] | Time Call: 2020-10-30 17:29:44.995848
+
+[INFO] api_logger: {publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen15fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:32:39.331559
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:32:43.020021
+
+[INFO] api_logger: Article(id=null, createdAt=null, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen15fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:32:43.021020
+
+[INFO] api_logger: {id: 123, createdAt: 2020-11-23, updatedAt: null, publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen16fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:35:27.219893
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:35:32.872340
+
+[INFO] api_logger: Article(id=123, createdAt=null, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen16fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:35:32.874334
+
+[INFO] api_logger: Article(id=123, createdAt=2020-10-30 17:35:38.126891, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen16fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:35:38.126891
+
+[INFO] api_logger: Article(id=123, createdAt=2020-10-30 17:35:38.126891, updatedAt=2020-10-30 17:35:40.091402, title=lag vc, slug=asdsssd, content=123, email=nguyen16fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:35:40.091402
+
+[INFO] api_logger: {id: 123, createdAt: 2020-11-23, updatedAt: null, publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen17fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:38:02.608919
+
+[INFO] api_logger: {id: 123, createdAt: 2020-11-23, updatedAt: 2020-11-23, publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen17fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:38:39.284094
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:38:59.937869
+
+[INFO] api_logger: Article(id=123, createdAt=null, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen17fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:38:59.939826
+
+[INFO] api_logger: Article(id=123, createdAt=2020-10-30 17:38:59.940824, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen17fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:38:59.940824
+
+[INFO] api_logger: Article(id=123, createdAt=2020-10-30 17:38:59.940824, updatedAt=2020-10-30 17:38:59.941821, title=lag vc, slug=asdsssd, content=123, email=nguyen17fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:38:59.942819
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:38:59.954785
+
+[INFO] api_logger: 200 POST /new (20691 ms) | Time Call: 2020-10-30 17:38:59.962764
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:38:59.971742
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:38:59.975733
+
+[INFO] api_logger: {id: 124, createdAt: 2020-11-23, updatedAt: 2020-11-23, publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen18fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:39:25.635006
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:39:28.918050
+
+[INFO] api_logger: Article(id=124, createdAt=null, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen18fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:39:28.920045
+
+[INFO] api_logger: Article(id=124, createdAt=2020-10-30 17:39:28.922054, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen18fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:39:28.922054
+
+[INFO] api_logger: Article(id=124, createdAt=2020-10-30 17:39:28.922054, updatedAt=2020-10-30 17:39:28.923036, title=lag vc, slug=asdsssd, content=123, email=nguyen18fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:39:28.923036
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:39:28.925030
+
+[INFO] api_logger: 200 POST /new (3291 ms) | Time Call: 2020-10-30 17:39:28.926027
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:39:28.931013
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:39:28.932012
+
+[INFO] api_logger: {publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen19fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:42:15.724983
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:42:19.875009
+
+[INFO] api_logger: Article(id=null, createdAt=null, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen19fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:42:19.876938
+
+[INFO] api_logger: Article(id=null, createdAt=2020-10-30 17:42:19.877934, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen19fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:42:19.877934
+
+[INFO] api_logger: Article(id=null, createdAt=2020-10-30 17:42:19.877934, updatedAt=2020-10-30 17:42:19.878932, title=lag vc, slug=asdsssd, content=123, email=nguyen19fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:42:19.878932
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:42:19.886910
+
+[INFO] api_logger: 200 POST /new (4182 ms) | Time Call: 2020-10-30 17:42:19.894098
+
+[SEVERE] api_logger: type 'Article' is not a subtype of type 'Map<String, dynamic>' of 'data' | Time Call: 2020-10-30 17:42:19.901048
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:42:19.905039
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:42:19.907033
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:42:19.908029
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-30 17:44:48.777667
+
+[INFO] api_logger: {publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen20fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:45:02.221549
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:45:06.812054
+
+[INFO] api_logger: Article(id=null, createdAt=null, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen20fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:45:06.815053
+
+[INFO] api_logger: Article(id=null, createdAt=2020-10-30 17:45:06.816051, updatedAt=2020-10-30 17:45:06.817043, title=lag vc, slug=asdsssd, content=123, email=nguyen20fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:45:06.817043
+
+[INFO] api_logger: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:45:06.826778
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:45:06.827762
+
+[INFO] api_logger: 200 POST /new (4637 ms) | Time Call: 2020-10-30 17:45:06.837745
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:45:06.844703
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:45:06.853678
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-30 17:47:26.866886
+
+[INFO] api_logger: {publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen21fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:47:41.236816
+
+[INFO] api_logger: [] | Time Call: 2020-10-30 17:47:49.535831
+
+[INFO] api_logger: Article(id=null, createdAt=null, updatedAt=null, title=lag vc, slug=asdsssd, content=123, email=nguyen21fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:47:49.536828
+
+[INFO] api_logger: Article(id=null, createdAt=2020-10-30 17:47:49.537825, updatedAt=2020-10-30 17:47:49.537825, title=lag vc, slug=asdsssd, content=123, email=nguyen21fa@gmail.com, password=testne, publishDate=2020-11-23 00:00:00.000) | Time Call: 2020-10-30 17:47:49.537825
+
+[INFO] api_logger: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:47:49.551787
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:47:49.552786
+
+[INFO] api_logger: 200 POST /new (8335 ms) | Time Call: 2020-10-30 17:47:49.558797
+
+[SEVERE] api_logger: Converting object to an encodable object failed: Instance of 'Future<dynamic>' | Time Call: 2020-10-30 17:47:49.568742
+
+[SEVERE] api_logger: Fatal error occurred when processing . | Time Call: 2020-10-30 17:47:49.572730
+
+[INFO] api_logger: lib\src\routes.dart changed. Reloading server...
+ | Time Call: 2020-10-30 17:51:30.706302
+
+[INFO] api_logger: {publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen22fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:51:43.793003
+
+[INFO] api_logger: {publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen22fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:51:43.793003
+
+[INFO] api_logger: {created_at: 2020-10-30T17:51:43.808069, updated_at: 2020-10-30T17:51:43.808069, title: lag vc, slug: asdsssd, content: 123, email: nguyen22fa@gmail.com, password: testne, publish_date: 2020-11-23 00:00:00.000, id: 5f9bf03fe952820f12c3f2b0} | Time Call: 2020-10-30 17:51:43.837036
+
+[INFO] api_logger: {created_at: 2020-10-30T17:51:43.808069, updated_at: 2020-10-30T17:51:43.808069, title: lag vc, slug: asdsssd, content: 123, email: nguyen22fa@gmail.com, password: testne, publish_date: 2020-11-23 00:00:00.000, id: 5f9bf03fe952820f12c3f2b0} | Time Call: 2020-10-30 17:51:43.837036
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:51:43.839033
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:51:43.839033
+
+[INFO] api_logger: 200 POST /new (69 ms) | Time Call: 2020-10-30 17:51:43.858010
+
+[INFO] api_logger: 200 POST /new (69 ms) | Time Call: 2020-10-30 17:51:43.858010
+
+[INFO] api_logger: {publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen22fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:52:01.666063
+
+[INFO] api_logger: {publish_date: 2020-11-23, title: lag vc, slug: asdsssd, content: 123, email: nguyen22fa@gmail.com, password: testne} | Time Call: 2020-10-30 17:52:01.666063
+
+[INFO] api_logger: 401 POST /new (32 ms) | Time Call: 2020-10-30 17:52:01.697974
+
+[INFO] api_logger: 401 POST /new (32 ms) | Time Call: 2020-10-30 17:52:01.697974
+
+[INFO] api_logger: {publish_date: 2020-10-08, title: hoang, slug: 123456, content: 5645kkk, email: asdaaa@, password: 123456} | Time Call: 2020-10-30 17:55:49.365567
+
+[INFO] api_logger: {publish_date: 2020-10-08, title: hoang, slug: 123456, content: 5645kkk, email: asdaaa@, password: 123456} | Time Call: 2020-10-30 17:55:49.365567
+
+[INFO] api_logger: {created_at: 2020-10-30T17:55:49.371545, updated_at: 2020-10-30T17:55:49.371545, title: hoang, slug: 123456, content: 5645kkk, email: asdaaa@, password: 123456, publish_date: 2020-10-08 00:00:00.000, id: 5f9bf135e952820f12c3f2b6} | Time Call: 2020-10-30 17:55:49.389566
+
+[INFO] api_logger: {created_at: 2020-10-30T17:55:49.371545, updated_at: 2020-10-30T17:55:49.371545, title: hoang, slug: 123456, content: 5645kkk, email: asdaaa@, password: 123456, publish_date: 2020-10-08 00:00:00.000, id: 5f9bf135e952820f12c3f2b6} | Time Call: 2020-10-30 17:55:49.389566
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:55:49.392548
+
+[INFO] api_logger: success | Time Call: 2020-10-30 17:55:49.392548
+
+[INFO] api_logger: 200 POST /new (37 ms) | Time Call: 2020-10-30 17:55:49.394543
+
+[INFO] api_logger: 200 POST /new (37 ms) | Time Call: 2020-10-30 17:55:49.394543
+

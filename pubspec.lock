@@ -352,7 +352,7 @@ packages:
     source: hosted
     version: "1.0.5"
   http:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: http
       url: "https://pub.dartlang.org"
@@ -435,8 +435,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.0-beta+3"
+  logger:
+    dependency: "direct main"
+    description:
+      name: logger
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.9.4"
   logging:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: logging
       url: "https://pub.dartlang.org"
